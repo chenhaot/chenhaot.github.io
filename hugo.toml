@@ -1,9 +1,0 @@
-baseURL = "https://chenhaot.github.io/"
-languageCode = 'en-us'
-title = "Chenhao Tan (谭宸浩)"
-theme = "maverick"
-
-
-[params]
-  author = "Chenhao Tan"
-  description = "Researcher on human+AI, communication and intelligence"

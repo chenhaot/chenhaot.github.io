@@ -1,0 +1,60 @@
+baseurl: "https://chenhaot.github.io"  # please update this to your actual URL
+languageCode: "en-us"
+title: "A minimal Hugo website"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  blog: "/blog/:year/:month/:day/:slug/"
+  papers: "/papers/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Papers
+      url: "/papers/"
+      weight: 2
+    - name: Talks
+      url: "/talks/"
+      weight: 3
+    - name: Courses
+      url: "/courses/"
+      weight: 4
+    - name: Contact
+      url: "/contact/"
+      weight: 5
+    - name: Blog
+      url: "/blog/"
+      weight: 6
+    - name: Lab
+      url: "https://chicagohai.github.io/"
+      weight: 7
+    
+
+params:
+  description: "Researcher on human-AI interaction, communication and intelligence"
+  footer: "&copy; Chenhao Tan {Year} (made with [Hugo XMin](https://github.com/yihui/hugo-xmin/)) | [Github](https://github.com/ChicagoHAI/) | [Google Scholar](https://scholar.google.com/citations?user=KGMaP18AAAAJ&hl=en) | [Bluesky](https://bsky.app/profile/chenhaotan.bsky.social) | [LinkedIn](https://www.linkedin.com/in/chenhao-tan-2a446316/)"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
