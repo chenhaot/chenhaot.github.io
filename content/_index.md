@@ -51,22 +51,26 @@ If you are interested in seeing how my research description has evolved, you can
 
 ## Openings
 
-As of fall 2024, you can apply to work with me through      
+As of fall 2025, you can apply to work with me through      
 
 * the UChicago [Computer Science PhD program](https://cs.uchicago.edu/academics/admission/?phd), 
 * the UChicago [Data Science PhD program](https://codas.uchicago.edu/how-to-apply/) (the first ever cohort!), 
 * the [Data Science Instituite Postdoctoral program](https://datascience.uchicago.edu/research/postdoctoral-programs/dsi-scholars/#description) (**If you applied to the DSI postdoc program and mentioned me as an advisor, please send me an email because I can potentially support you with my own funding**).
 
-**I also have a postdoc opening on human-centered AI that can start any time.** Please email [me](/contact) your CV and names of references.  I am particularly open to students who have background in medicine and policy (e.g., MD/PhD and PhD students in economics).
-I am always looking for motivated masters and undergraduate students who are interested in Human-centered AI, Communication & Intelligence, AI &Scientific Discovery, and AI alignment.
+**I also have a postdoc opening on novel intelligence that can start any time.** Please email [me](/contact) your CV and names of references.  I am particularly open to students who have background in medicine and policy (e.g., MD/PhD and PhD students in economics).
+I am always looking for motivated masters and undergraduate students who are interested in
+Human-centered AI, Communication & Intelligence, AI & Scientific Discovery, and AI alignment.
 Please read this [FAQ][faq_link] before contacting me.
 
 <u>Demos & Packages</u>
 
+* [Hypogenic AI](https://hypogenic.ai)
+* [HR Simulator](https://hrsimulator.communicationgames.ai/)
 * [Hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation)
 * [Task delegability](https://delegability.github.io), should AI be used for X?
-* [Reddit genealogy](https://redditvisualization.herokuapp.com/), visualizing the genealogy between Reddit communities.
-* [retweetedmore](/retweetedmore), predicting which tweet is going to be retweeted more.
+
+<!-- * [Reddit genealogy](https://redditvisualization.herokuapp.com/), visualizing the genealogy between Reddit communities. -->
+<!-- * [retweetedmore](/retweetedmore), predicting which tweet is going to be retweeted more. -->
 
 <!-- * [Deception detection with a machine in the loop](https://deception.machineintheloop.com), allowing you to detect deceptive reviews with varying levels of machine assistance.-->
 <!-- * [wisecrackings](https://wisecrackings.com/), always on the lookout for movie-related oneliners!-->
