@@ -8,7 +8,6 @@ title: Home
 
 I am an associate professor at the [Department of Computer Science][uchicago_cs] and [Data Science][uchicago_dsi] at the [University of Chicago][uchicago].
 I direct the [Chicago Human+AI lab](https://chicagohai.github.io/) (CHAI) (<a href="https://bsky.app/profile/chicagohai.bsky.social"><i class="fa-brands fa-bluesky" style="color: #74C0FC;"></i></a>, <a href="https://x.com/ChicagoHAI"><i class="fa-brands fa-x-twitter"></i></a>).
-I am also a visiting scientist at [Abridge](https://www.abridge.com/).
 You can learn more about my life trajectory and find my official biography [here](/bio).
 
 

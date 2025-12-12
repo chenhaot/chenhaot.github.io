@@ -9,6 +9,7 @@ summary: a short history of my life.
 I moved to the University of Chicago after 3.5 wonderful years at Boulder. Before Boulder, I was a postdoctoral researcher at [University of Washington][uw], working with [Noah Smith][noah_smith] for a year.
 Prior to that, I spent wonderful years at Ithaca working with [Lillian Lee][lillian_lee] and [many others][collaborators],
 and obtained a PhD degree in [Computer Science][cornell_cs] at [Cornell University][cornell].
+I also worked as a visiting scientist at [Abridge](https://www.abridge.com/).
 Originally, I am from [Jingdezhen, China][jingdezhen_wiki] and lived in Beijing for four years while studying [Computer Science][tsinghua_cs] and [Economics][tsinghua_econ] at [Tsinghua University][tsinghua].    
 
 
