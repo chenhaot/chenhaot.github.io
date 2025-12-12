@@ -6,8 +6,8 @@ title: Home
 
 # Chenhao Tan (谭宸浩)
 
-I am an associate professor at the [Department of Computer Science][uchicago_cs] and [Data Science][uchicago_dsi] at the [University of Chicago][uchicago]. 
-I direct the [Chicago Human+AI lab](https://chicagohai.github.io/) (CHAI) (<a href="https://bsky.app/profile/chicagohai.bsky.social"><i class="fa-brands fa-bluesky" style="color: #74C0FC;"></i></a>).
+I am an associate professor at the [Department of Computer Science][uchicago_cs] and [Data Science][uchicago_dsi] at the [University of Chicago][uchicago].
+I direct the [Chicago Human+AI lab](https://chicagohai.github.io/) (CHAI) (<a href="https://bsky.app/profile/chicagohai.bsky.social"><i class="fa-brands fa-bluesky" style="color: #74C0FC;"></i></a>, <a href="https://x.com/ChicagoHAI"><i class="fa-brands fa-x-twitter"></i></a>).
 I am also a visiting scientist at [Abridge](https://www.abridge.com/).
 You can learn more about my life trajectory and find my official biography [here](/bio).
 
@@ -24,8 +24,22 @@ In general, goals matter more to me than the specific problem or method. For ins
 
 If you are interested in seeing how my research description has evolved, you can check this [page](/bio).
 
+<u>Recent talk</u>:
 
-## Selected recent work
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-uugw4ElFFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<u>News</u>:
+
+* We are running [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition), where you vote on ideas and we will implement them with research agents for you! Please [vote](https://hypogenic.ai/arena)!
+* A short accompany [post](/recruiting) to my emoji-filled [recruiting ad](https://x.com/ChenhaoTan/status/1985422996786602140).
+* New blog: [The Mirage of Autonomous AI Scientists](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists).
+* I am co-organizing an online seminar on [AI & Scientific Discovery](https://ai-scientific-discovery.github.io/). Check it out!
+* We have developed a communication game called [HR Simulator&#8482;](https://hrsimulator.communicationgames.ai/). See if you can handle office drama better than LLMs!
+
+
+<u>Selected recent work</u>
 
 * [Haokun Liu\*][haokun_liu], [Yangqiaoyu Zhou\*][rosa_zhou], Mingxuan Li\*, Chenfei Yuan, and _Chenhao Tan_. [Literature Meets Data: A Synergistic Approach to Hypothesis Generation](https://arxiv.org/abs/2410.17309). [[Website]](https://chicagohai.github.io/hypogenic-demo/)
 * [Yangqiaoyu Zhou][rosa_zhou], [Haokun Liu][haokun_liu], Tejes Srivastava, [Hongyuan Mei][hongyuan_mei], and _Chenhao Tan_. [Hypothesis Generation with Large Language Models](https://arxiv.org/abs/2404.04326). NLP4Science workshop at EMNLP 2024.
@@ -44,14 +58,15 @@ As of fall 2024, you can apply to work with me through
 * the [Data Science Instituite Postdoctoral program](https://datascience.uchicago.edu/research/postdoctoral-programs/dsi-scholars/#description) (**If you applied to the DSI postdoc program and mentioned me as an advisor, please send me an email because I can potentially support you with my own funding**).
 
 **I also have a postdoc opening on human-centered AI that can start any time.** Please email [me](/contact) your CV and names of references.  I am particularly open to students who have background in medicine and policy (e.g., MD/PhD and PhD students in economics).
-I am always looking for motivated masters and undergraduate students who are interested in human-centered AI, NLP, and computational social science.
+I am always looking for motivated masters and undergraduate students who are interested in Human-centered AI, Communication & Intelligence, AI &Scientific Discovery, and AI alignment.
 Please read this [FAQ][faq_link] before contacting me.
 
-## Demos & Packages
+<u>Demos & Packages</u>
 
 * [Hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation)
 * [Task delegability](https://delegability.github.io), should AI be used for X?
 * [Reddit genealogy](https://redditvisualization.herokuapp.com/), visualizing the genealogy between Reddit communities.
+* [retweetedmore](/retweetedmore), predicting which tweet is going to be retweeted more.
 
 <!-- * [Deception detection with a machine in the loop](https://deception.machineintheloop.com), allowing you to detect deceptive reviews with varying levels of machine assistance.-->
 <!-- * [wisecrackings](https://wisecrackings.com/), always on the lookout for movie-related oneliners!-->

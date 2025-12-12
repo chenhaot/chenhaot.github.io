@@ -3,21 +3,38 @@ title: Papers
 ---
 
 
-## A full list of my publications in chronological order 
+#### A full list of my publications in chronological order 
 
-[[Google scholar profile][gs_profile]] (Google scholar is usually more up-to-date and I manually check all the paper entries on Google scholar.)
+\[[Google scholar profile][gs_profile]\]  
+(Google scholar is usually more up-to-date and I manually check all the paper entries on Google scholar.)
 
-Preprint
+Recent Preprints
+
+* [Haokun Liu][haokun_liu], Sicong Huang, Jingyu Hu, [Yangqiaoyu Zhou][rosa_zhou], and _Chenhao Tan_. [HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](https://arxiv.org/abs/2504.11524).
+* Michael Cooper, Rohan Wadhawan, John Michael Giorgi, Chenhao Tan, Davis Liang. [The Curious Language Model: Strategic Test-Time Information Acquisition](https://arxiv.org/abs/2506.09173).
+* Mingxuan Li, Hanchen Li, and _Chenhao Tan_. [HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation](https://arxiv.org/abs/2504.07174).
+* [Cristina Garbacea][cristina_garbacea] and _Chenhao Tan_. [HyPerAlign: Interpretable Personalized LLM Alignment via Hypothesis Generation](https://arxiv.org/abs/2505.00038).
+* [Mourad Heddaya][mourad_heddaya], _Chenhao Tan_, [Rob Voigt][rob_voigt], Qingcheng Zeng, and [Alexander Zentefis][alex_zentefis]. [A Century of Inflation Narratives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259107).
+* Zhizhang Yuan, Fanqi Shen, Meng Li, Yuguo Yu, _Chenhao Tan_, and [Yang Yang][yang_yang]. [BrainWave: A Brain Signal Foundation Model for Clinical Applications](https://arxiv.org/abs/2402.10251).
 
 
-* [Haokun Liu*][haokun_liu], [Yangqiaoyu Zhou*][rosa_zhou], Mingxuan Li*, Chenfei Yuan, and _Chenhao Tan_. [Literature Meets Data: A Synergistic Approach to Hypothesis Generation](https://arxiv.org/abs/2410.17309). [[Website]](https://chicagohai.github.io/hypogenic-demo/)
-* [Mourad Heddaya][mourad_heddaya], Kyle MacMillan, Anup Malani, Hongyuan Mei, and _Chenhao Tan_. [CaseSumm: A Large-Scale Dataset for Long-Context Summarization from U.S. Supreme Court Opinions](http://arxiv.org/abs/2501.00097)
-* Zhizhang Yuan, Fanqi Shen, Meng Li, Yuguo Yu, _Chenhao Tan_, and [Yang Yang][yang_yang]. [BrainWave: A Brain Signal Foundation Model for Clinical Applications](https://arxiv.org/abs/2402.10251)
-* Yuyang Jiang, [Chacha Chen][chacha_chen], [Dang Nguyen][dang_nguyen], Benjamin M. Mervak, and _Chenhao Tan_. [GPT-4V Cannot Generate Radiology Reports Yet](https://arxiv.org/abs/2407.12176).
-* Jiashuo Wang, Yang Xiao, Yanran Li, Changhe Song, Chunpu Xu, _Chenhao Tan_, and Wenjie Li. [Towards a Client-Centered Assessment of LLM Therapists by Client Simulation](https://arxiv.org/abs/2406.12266).
-* [Chao-Chun Hsu][chaochun_hsu], [Ziad Obermeyer][ziad_obermeyer], and _Chenhao Tan_. [Clinical Notes Reveal Physician Fatigue](https://arxiv.org/abs/2312.03077).
 
+2025
 
+* Ari Holtzman and _Chenhao Tan_. [Prompting as Scientific Inquiry](https://arxiv.org/abs/2507.00163). NeurIPS 2025 (position papers track). [[Blog](https://cichicago.substack.com/p/prompting-as-scientific-inquiry)]
+* [Xiaoyan Bai][xiaoyan_bai], Ike Peng, Aditya Singh, and _Chenhao Tan_. [Concept Incongruence: An Exploration of Time and Death in Role Playing](https://arxiv.org/abs/2505.14905). NeurIPS 2025. [[Blog](https://cichicago.substack.com/p/concept-incongruence-is-key-to-ai)]
+* Harvey Yiyun Fu, Aryan Shrivastava, Jared Moore, Peter West, Chenhao Tan, Ari Holtzman. [AbsenceBench: Language Models Can't Tell What's Missing](https://arxiv.org/abs/2506.11440). NeurIPS 2025 (spotlight in Datasets and Benchmarks).
+* Ziyu Chen, Junfei Sun, Chenxi Li, Tuan Dung Nguyen, Jing Yao, Xiaoyuan Yi, Xing Xie, _Chenhao Tan_, and [Lexing Xie][lexing_xie]. MoVa: Resources for Generalizable Classification of Human Morals and Values. EMNLP 2025.
+* [Karen Zhou][karen_zhou], John Giorgi, Pranav Mani, Peng Xu, Davis Liang, and _Chenhao Tan_. [From Feedback to Checklists: Grounded Evaluation of AI-Generated Clinical Notes](https://arxiv.org/abs/2507.17717). EMNLP 2025 (industry track).
+* Yuyang Jiang, [Chacha Chen][chacha_chen], Shengyuan Wang, Feng Li, Zecong Tang, Benjamin M. Mervak, Lydia Chelala, Christopher M Straus, Reve Chahine, Samuel G. Armato III, and _Chenhao Tan_. [CLEAR: A Clinically-Grounded Tabular Framework for Radiology Report Evaluation](https://arxiv.org/abs/2505.16325). Findings of EMNLP 2025.
+* [Chao-Chun Hsu][chaochun_hsu], [Ziad Obermeyer][ziad_obermeyer], and _Chenhao Tan_. [A machine learning model using clinical notes to identify physician fatigue](https://www.nature.com/articles/s41467-025-60865-4). Nature Communications 2025. [arXiv version](https://arxiv.org/abs/2312.03077)
+* [Dang Nguyen][dang_nguyen] and _Chenhao Tan_. [On the Effectiveness and Generalization of Race Representations for Debiasing High-Stakes Decisions](https://arxiv.org/abs/2504.06303). COLM 2025.
+* [Haokun Liu\*][haokun_liu], [Yangqiaoyu Zhou\*][rosa_zhou], Mingxuan Li\*, Chenfei Yuan, and _Chenhao Tan_. [Literature Meets Data: A Synergistic Approach to Hypothesis Generation](https://arxiv.org/abs/2410.17309). ACL 2025. [\[Website\]](https://chicagohai.github.io/hypogenic-demo/)
+* Jacy Anthis, Kristian Lum, Michael Ekstrand, Avi Feller, and _Chenhao Tan_. [The Impossibility of Fair LLMs](https://arxiv.org/abs/2406.03198). ACL 2025.
+* Lan Gao, Oscar Chen, Rachel Lee, Nick Feamster, Chenhao Tan, Marshini Chetty. ["I Cannot Write This Because It Violates Our Content Policy": Understanding Content Moderation Policies and User Experiences in Generative AI Products](https://arxiv.org/abs/2506.14018). USENIX Security 2025.
+* [Chacha Chen][chacha_chen], [Han Liu][han_liu], Jiamin Yang,  Benjamin M. Mervak, Bora Kalaycioglu, Grace Lee, Emre Cakmakli, Matteo Bonatti, Sridhar Pudu, Osman Kahraman, Gul Gizem Pamuk, Aytekin Oto, Aritrick Chatterjee, and _Chenhao Tan_. [Can Domain Experts Rely on AI Appropriately? A Case Study on AI-Assisted Prostate Cancer MRI Diagnosis](https://arxiv.org/abs/2502.03482). FAccT 2025.
+* [Mourad Heddaya][mourad_heddaya], Kyle MacMillan, Anup Malani, Hongyuan Mei, and _Chenhao Tan_. [CaseSumm: A Large-Scale Dataset for Long-Context Summarization from U.S. Supreme Court Opinions](http://arxiv.org/abs/2501.00097). Findings of NAACL 2025. 
+* Yuyang Jiang, [Chacha Chen][chacha_chen], [Dang Nguyen][dang_nguyen], Benjamin M. Mervak, and _Chenhao Tan_. [GPT-4V Cannot Generate Radiology Reports Yet](https://arxiv.org/abs/2407.12176). Findings of NAACL 2025.
 
 
 2024
@@ -25,12 +42,15 @@ Preprint
 * [Yangqiaoyu Zhou][rosa_zhou], [Haokun Liu][haokun_liu], Tejes Srivastava, [Hongyuan Mei][hongyuan_mei], and _Chenhao Tan_. [Hypothesis Generation with Large Language Models](https://arxiv.org/abs/2404.04326). NLP4Science workshop at EMNLP 2024.
 * [Mourad Heddaya][mourad_heddaya], Qingcheng Zeng, _Chenhao Tan_, Rob Voigt, and Alexander Zentefis. [Causal Micro-Narratives](https://arxiv.org/abs/2410.05252). EMNLP 2024 Workshop on Narrative Understanding.
 * [Emre Kıcıman][emre_kiciman], [Robert Ness][robert_ness], [Amit Sharma](amit_sharma), and _Chenhao Tan_. [Causal Reasoning and Large Language Models: Opening a New Frontier for Causality](https://arxiv.org/abs/2305.00050). Transactions on Machine Learning Research (TMLR) 2024.
-* [Karen Zhou][karen_zhou], Alexander A. Meitus, Milo Chase, Grace Wang, Anne Mykland, William Howell, and _Chenhao Tan_. [Quantifying the Uniqueness of Donald Trump in Presidential Discourse](https://academic.oup.com/pnasnexus/article/3/10/pgae431/7814873). PNAS Nexus 2024.
+* [Karen Zhou][karen_zhou], Alexander A. Meitus, Milo Chase, Grace Wang, Anne Mykland, William Howell, and _Chenhao Tan_. [Quantifying the uniqueness and divisiveness of presidential discourse](https://academic.oup.com/pnasnexus/article/3/10/pgae431/7814873). PNAS Nexus 2024.
 * Tianyu Cao, Natraj Raman, Danial Dervovic, and _Chenhao Tan_. [Characterizing Multimodal Long-form Summarization: A Case Study on Financial Reports](https://arxiv.org/abs/2404.06162). COLM 2024.
 * [Chao-Chun Hsu][chaochun_hsu], Erin Bransom, Jenna Sparks, Bailey Kuehl, _Chenhao Tan_, [David Wadden][david_wadden], [Lucy Lu Wang][lucy_lu_wang], [Aakanksha Naik][aakanksha_naik]. [CHIME: LLM-Assisted Hierarchical Organization of Scientific Studies for Literature Review Support](https://arxiv.org/abs/2407.16148). Findings of ACL 2024. 
 * Zining Zhu, Hanjie Chen, Xi Ye, _Chenhao Tan_, Ana Marasović, Sarah Wiergreffe, Veronica Qing Lyu. [Explanation in the Era of Large Language Models](https://explanation-llm.github.io/). NAACL tutorial 2024.
 * Brennan Schaffner, Arjun Nitin Bhagoji, Siyuan Cheng, Jacqueline Mei, Jay L Shen, Grace Wang, Marshini Chetty, Nick Feamster, Genevieve Lakier, _Chenhao Tan_. ["Community Guidelines Make this the Best Party on the Internet": An In-Depth Study of Online Platforms' Content Moderation Policies](https://arxiv.org/abs/2405.05225). CHI 2024.
+* [C. Estelle Smith][estelle_smith], Shamika Klassen, Gale H. Prinster, _Chenhao Tan_, and [Brian C. Keegan][brian_keegan]. [Governance of the Black Experience on Reddit: r/BlackPeopleTwitter as a Case Study in Supporting Sense of Virtual Community for Black Users](https://dl.acm.org/doi/10.1145/3686920). CSCW 2024. **DEI Recognition Award (Top 4% of papers)**.
 * Gale H. Prinster, [C. Estelle Smith][estelle_smith], _Chenhao Tan_, and [Brian C. Keegan][brian_keegan]. [Community Archetypes: An Empirical Framework for Guiding Research Methodologies to Reflect User Experiences of Sense of Virtual Community](https://arxiv.org/abs/2310.02515). CSCW 2024.
+* Jiashuo Wang, Yang Xiao, Yanran Li, Changhe Song, Chunpu Xu, _Chenhao Tan_, and Wenjie Li. [Towards a Client-Centered Assessment of LLM Therapists by Client Simulation](https://arxiv.org/abs/2406.12266).
+
 
 
 2023
@@ -63,6 +83,7 @@ Zhengzhe Fu, Fei Wu, and Yueting Zhuang. [Unfolding and Modeling the Recovery Pr
 * _Chenhao Tan_. [On the Diversity and Limits of Human Explanations][naacl22a_details]. NAACL 2022.
 * Jamar L. Sullivan, [Will Brackenbury][will_brackenbury], [Andrew McNutt][andrew_mcnutt], [Kevin Bryson][kevin_bryson], Kwam Byll, [Yuxin Chen][yuxin_chen], [Michael Littman][michael_littman], _Chenhao Tan_, [Blase Ur][blase_ur]. [Explaining Why: How Instructions and User Interfaces Impact Annotator Rationales When Labeling Text Data][naacl22b_details]. NAACL 2022.
 * [C. Estelle Smith][estelle_smith], Irfanul Alam, _Chenhao Tan_, [Brian C. Keegan][brian_keegan], [Anita Blanchard][anita_blanchard]. [The Impact of Governance Bots on Sense of Virtual Community: Development and Validation of the GOV-BOTs Scale][cscw22_details]. CSCW 2022.
+* [Himabindu Lakkaraju][hima_lakkaraju], [Dylan Slack][dylan_slack], [Yuxin Chen][yuxin_chen], _Chenhao Tan_, and [Sameer Singh][sameer_singh]. [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/abs/2202.01875). Preprint.
 
 2021
 
@@ -189,7 +210,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 
 * _Chenhao Tan, [Lillian Lee][lillian_lee], [Bo Pang][bo_pang]._    
   [The effect of wording on message propagation: Topic- and author-controlled natural experiments on Twitter][acl14_details].
-  In Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL'14) [[Quiz][nyt_quiz_link] on NYT][[Prediction tool][acl14_demo]] (featured on [The New York Times][nyt_link] and [other media outlets][acl14_details]).     
+  In Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL'14) \[[Quiz][nyt_quiz_link] on NYT\]\[[Prediction tool][acl14_demo]\] (featured on [The New York Times][nyt_link] and [other media outlets][acl14_details]).     
 * _Chenhao Tan, [Lillian Lee][lillian_lee]._    
   [A Corpus of Sentence-level Revisions in Academic Writing: A Step towards Understanding Statement Strength in Communication][acl14_short_details].
   In Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL'2014) (short paper).   
@@ -238,98 +259,99 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 * _Chenhao Tan, [Jie Tang][jie_tang], [Jimeng Sun][jimeng_sun], Quan Lin, Fengjiao Wang._    
   [Social Action Tracking via Noise Tolerant Time-varying Factor Graphs][kdd10_details].
   In Proceedings of the Sixteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD'2010).     
-  [[A companion page with details that I made as an undergrad][kdd10_old_details]]
+  \[[A companion page with details that I made as an undergrad][kdd10_old_details]\]
 * _Wenbin Tang, [Jie Tang][jie_tang], Chenhao Tan._    
   [Expertise Matching via Constrained-based Optimization][wic10_paper].
   In Proceedings of 2010 IEEE/WIC/ACM International Conferences (WIC'2010).    
-  [[A link to the details of the journal version)][wic10_details]]
+  \[[A link to the details of the journal version)][wic10_details]\]
 
 
 [//]: <> (papers and files)
-[chi22_details]: papers/conditional-delegation
-[acl22_details]: papers/learning-from-rationales
-[naacl22a_details]: papers/diversity-limits-human-explanations
-[naacl22b_details]: papers/ratioanle-annotation
-[cscw22_details]: papers/bots-sense-of-virtual-community
-[emnlp21_details]: papers/decision-focused-summarization
-[acl21_details]: papers/positive-words-negative-reviews
-[emnlp21ws_details]: papers/explanation-few-shot-nlp
-[aies21_details]: papers/unifying-explanations
-[cscw21_details]: papers/ood-interactive-explanation-human-ai-decision-making
-[icwsm21_details]: papers/covid-communities-diverging-trajectories
-[emnlp20b_details]: papers/value-of-information
-[emnlp20a_details]: papers/evaluate-human-rationales
+[chi22_details]: papers/conditional-delegation.html
+[acl22_details]: papers/learning-from-rationales.html
+[naacl22a_details]: papers/diversity-limits-human-explanations.html
+[naacl22b_details]: papers/ratioanle-annotation.html
+[cscw22_details]: papers/bots-sense-of-virtual-community.html
+[emnlp21_details]: papers/decision-focused-summarization.html
+[acl21_details]: papers/positive-words-negative-reviews.html
+[emnlp21ws_details]: papers/explanation-few-shot-nlp.html
+[aies21_details]: papers/unifying-explanations.html
+[cscw21_details]: papers/ood-interactive-explanation-human-ai-decision-making.html
+[icwsm21_details]: papers/covid-communities-diverging-trajectories.html
+[emnlp20b_details]: papers/value-of-information.html
+[emnlp20a_details]: papers/evaluate-human-rationales.html
 [thesis_file]: /pubs/tan-thesis.pdf
-[chi20ws_details]: /papers/human-centered-explanations-workshop
-[chi20_details]: /papers/human-centered-tutorials
-[fat20_details]: /papers/diverse-counterfactual-explanations
-[emnlp19b_details]: /papers/explanation-pointers
-[emnlp19a_details]: /papers/feature-importance
-[tacl19_details]: /papers/persuasive-progress
-[cscw19b_details]: /papers/intergroup-contact
-[cscw19a_details]: /papers/content-removal
-[fat19_details]: /papers/human-predictions
-[naacl19_details]: /papers/nation-relations
-[cscw18a_details]: /papers/online-offline
-[cscw18b_details]: /papers/framing-sample
-[icwsm18_details]: /papers/community-genealogy
+[chi20ws_details]: /papers/human-centered-explanations-workshop.html
+[chi20_details]: /papers/human-centered-tutorials.html
+[fat20_details]: /papers/diverse-counterfactual-explanations.html
+[emnlp19b_details]: /papers/explanation-pointers.html
+[emnlp19a_details]: /papers/feature-importance.html
+[tacl19_details]: /papers/persuasive-progress.html
+[cscw19b_details]: /papers/intergroup-contact.html
+[cscw19a_details]: /papers/content-removal.html
+[fat19_details]: /papers/human-predictions.html
+[naacl19_details]: /papers/nation-relations.html
+[cscw18a_details]: /papers/online-offline.html
+[cscw18b_details]: /papers/framing-sample.html
+[icwsm18_details]: /papers/community-genealogy.html
 [acl14_short_paper]: /pubs/statement-strength.pdf
-[acl14_short_details]: /papers/statement-strength
+[acl14_short_details]: /papers/statement-strength.html
 [acl14_paper]: /pubs/wording-effects-message-propagation.pdf
-[acl14_details]: /papers/wording-for-propagation
-[acl17_details]: /papers/idea-relations
-[acl18_details]: /papers/neural-topic-model-metadata
-[aaai18_details]: /papers/migrant-integration
-[iui18_details]: /papers/creative-writing-with-a-machine-in-the-loop
-[emnlp17_details]: /papers/entity-lm
-[www15_details]: /papers/multi-community
-[www16a_details]: /papers/changemyview
-[www18a_details]: /papers/debate-quotes
-[www18b_details]: /papers/migrant-churn
-[www19a_details]: /papers/community-success
-[www19b_details]: /papers/team-composition
-[delegability_details]: /papers/delegability
-[tad16_details]: /papers/de-emphasis-fomc
-[www16b_details]: /papers/polymath
-[icwsm16b_details]: /papers/pairreddit
-[icwsm16a_details]: /papers/lostinpropagation
+[acl14_details]: /papers/wording-for-propagation.html
+[acl17_details]: /papers/idea-relations.html
+[acl18_details]: /papers/neural-topic-model-metadata.html
+[aaai18_details]: /papers/migrant-integration.html
+[iui18_details]: /papers/creative-writing-with-a-machine-in-the-loop.html
+[emnlp17_details]: /papers/entity-lm.html
+[www15_details]: /papers/multi-community.html
+[www16a_details]: /papers/changemyview.html
+[www18a_details]: /papers/debate-quotes.html
+[www18b_details]: /papers/migrant-churn.html
+[www19a_details]: /papers/community-success.html
+[www19b_details]: /papers/team-composition.html
+[delegability_details]: /papers/delegability.html
+[tad16_details]: /papers/de-emphasis-fomc.html
+[www16b_details]: /papers/polymath.html
+[icwsm16b_details]: /papers/pairreddit.html
+[icwsm16a_details]: /papers/lostinpropagation.html
 [acl14_demo]: /retweetedmore
 [nyt_quiz_link]: http://www.nytimes.com/interactive/2014/07/01/upshot/twitter-quiz.html
 [nyt_link]: http://www.nytimes.com/2014/07/03/upshot/a-25-question-twitter-quiz-to-predict-retweets.html
 [cikm13_paper]: /pubs/instant-foodie.pdf
-[cikm13_details]: /papers/instant-foodie
+[cikm13_details]: /papers/instant-foodie.html
 [cikm13_slides]: /pubs/cikm-instant-foodie.pdf
 [icwsm13_paper]: /pubs/social-topical-structure.pdf
 [icwsm13_blog]: http://crowdresearch.org/blog/?p=7198
-[icwsm13_details]: /papers/social-topical-structure
+[icwsm13_details]: /papers/social-topical-structure.html
 [icwsm13_slides]: /pubs/icwsm-social-topical-structure.pdf
 [wsdm12_paper]: /pubs/personalization-on-text-comprehensibility.pdf
-[wsdm12_details]: /papers/personalization-on-text-comprenhensibility
+[wsdm12_details]: /papers/personalization-on-text-comprenhensibility.html
 [wsdm12_slides]: /pubs/wsdm-personalization-text-comprehensibility.pdf
 [gmo_workshop_link]: https://confluence.cornell.edu/display/llresearch/HedgingFramingGMOs
 [gmopaper]: /pubs/gmostyle.pdf
 [neurocomputing12_paper]: /pubs/on-optimization-of-expertise-matching.pdf
-[neurocomputing12_details]: /papers/expertise-matching
+[neurocomputing12_details]: /papers/expertise-matching.html
 [kdd11_paper]: /pubs/user-level-sentiment-analysis-incorporating-social-networks.pdf
 [kdd11_poster]: /pubs/user-level-sentiment-poster.jpg
-[kdd11_details]: /papers/user-level-sentiment
+[kdd11_details]: /papers/user-level-sentiment.html
 [icwsm11_paper]: /pubs/bad-news-travel-faster.pdf
-[icwsm11_details]: /papers/bad-news-travel-faster
+[icwsm11_details]: /papers/bad-news-travel-faster.html
 [icwsm11_poster]: /pubs/bad-news-travel-faster-poster.pdf
 [acl11_paper]: /pubs/bilingual-joint-learning.pdf
-[acl11_details]: /papers/bilingual-joint-learning
+[acl11_details]: /papers/bilingual-joint-learning.html
 [sdm11_paper]: /pubs/online-NMF.pdf
-[sdm11_details]: /papers/online-nmf
+[sdm11_details]: /papers/online-nmf.html
 [kdd10_paper]: /pubs/social-action-tracking.pdf
 [kdd10_slides]: /pubs/social-action-tracking.pptx
 [kdd10_video]: http://videolectures.net/kdd2010_tan_sat/
 [kdd10_old_details]: http://www.arnetminer.org/stnt
-[kdd10_details]: /papers/social-action-tracking
+[kdd10_details]: /papers/social-action-tracking.html
 [wic10_paper]: /pubs/expert-matching.pdf
-[wic10_details]: /papers/expertise-matching
+[wic10_details]: /papers/expertise-matching.html
 [//]: <> (links for collaborators)
 [lada_adamic]: http://www.ladamic.com/
 [tal_august]: https://homes.cs.washington.edu/~taugust/
+[xiaoyan_bai]: https://elena-baixy.github.io/
 [will_brackenbury]: https://wbrackenbury.github.io
 [anita_blanchard]: https://pages.charlotte.edu/anitablanchard/
 [kevin_bryson]: https://cs.uchicago.edu/people/kevin-bryson/
@@ -353,6 +375,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [michael_franklin]: https://cs.uchicago.edu/people/michael-franklin/
 [adrien_friggeri]: http://www.friggeri.net/
 [evgeniy_gabrilovich]: http://www.cs.technion.ac.il/~gabr/
+[cristina_garbacea]: https://cristinagarbacea.com/
 [xiaochuang_han]: https://xhan77.github.io/
 [he_he]: https://hhexiy.github.io/
 [mourad_heddaya]: https://people.cs.uchicago.edu/~mourad/
@@ -426,6 +449,7 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [sebastian_martschat]: http://smartschat.de/
 [yangfeng_ji]: http://jiyfeng.github.io/
 [blase_ur]: http://blaseur.com
+[lexing_xie]: https://users.cecs.anu.edu.au/~xlx/
 [rob_voigt]: https://faculty.wcas.northwestern.edu/robvoigt/
 [michael_weisbach]: https://u.osu.edu/weisbach.2/
 [yang_yang]: http://yangy.org/

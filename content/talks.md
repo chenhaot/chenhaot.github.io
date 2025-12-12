@@ -2,7 +2,27 @@
 title: Talks
 ---
 
-## Slides for Human+AI conference in 2022
+
+
+Starting from September 16, 2025, I am putting my talk slides in this Google drive [folder](https://drive.google.com/drive/folders/12Avm9BYAkftgFK8PgFhmeEzYfOuS4rDe?usp=drive_link). Feel free to take a look!
+
+#### 2025
+
+[Science in the Age of
+AI](https://drive.google.com/file/d/1YuqoQXMEIf-63l31Riwh8fB23BwPu2EQ/view?usp=drive_link)
+
+[Opportunities & Challenges in Automating Mechanistic Interpretability](https://drive.google.com/file/d/17HaHrG0K_22DQqjYyMlaG-uwxb0EapEv/view?usp=sharing)
+
+[Structured Creativity in Science: AI for Hypothesis Generation and Research
+Ideation](https://drive.google.com/file/d/1_dLdJNOnF6_MIhJlYKomTaZrALHyYWdf/view?usp=drive_link)
+
+[Alignment Beyond Human Preferences: Use Human Goals to Guide AI towards Complementary AI](talks/alignment_beyond_preferences.pdf)
+
+#### 2024
+
+The year that has been forgotten. I will hopefully remember that year in the future.
+
+#### Slides for Human+AI conference in 2022
 
 Jenn Wortman Vaughan, [Some Very Human Challenges in Responsible AI](https://drive.google.com/file/d/1TRQz3s3wYwDKGFrwvnWDje0azkayCzfv/view)
 
@@ -16,7 +36,7 @@ Danny Oppenheimer, [Decision Science the Age of Augmented Cognition](https://dri
 Marc Berman, [Using Theory, Sensors, and Machines to Quantify
 the Nature of Social Interactions](https://drive.google.com/file/d/1bVZqk274vF3JzIaqu6ceTs7-bXVjD4F3/view)
 
-## Invited talks
+#### Older talks
 
 Towards Human-Centered AI: Understanding and Improving Human Decision Making through Explanations.
 
@@ -159,7 +179,7 @@ User-level Sentiment Analysis Incorporating Social Networks
 * Tsinghua University, 2011
 * Microsoft Research Asia NLP group seminar, 2011
 
-## Conference talks
+#### Conference talks
 
 [Talk it up or play it down? (Un)expected correlations between (de-)emphasis and recurrence of discussion points in consequential U.S. economic policy meetings][tad16] at Text as Data 2016
 
