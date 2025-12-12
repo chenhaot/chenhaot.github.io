@@ -2,7 +2,7 @@ baseurl: "https://chenhaot.github.io"  # please update this to your actual URL
 languageCode: "en-us"
 title: "A minimal Hugo website"
 theme: "hugo-xmin"
-googleAnalytics: ""
+googleAnalytics: "UA-49950088-1"
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
@@ -29,7 +29,7 @@ menu:
       url: "/contact/"
       weight: 5
     - name: Blog
-      url: "/blog/"
+      url: "https://substack.com/@cichicago"
       weight: 6
     - name: Lab
       url: "https://chicagohai.github.io/"
