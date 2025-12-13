@@ -37,8 +37,11 @@ menu:
     
 
 params:
-  description: "Researcher on human-AI interaction, communication and intelligence"
-  footer: "&copy; Chenhao Tan {Year} (made with [Hugo XMin](https://github.com/yihui/hugo-xmin/)) | [Github](https://github.com/ChicagoHAI/) | [Google Scholar](https://scholar.google.com/citations?user=KGMaP18AAAAJ&hl=en) | [X](https://x.com/ChenhaoTan) | [Bluesky](https://bsky.app/profile/chenhaotan.bsky.social) | [LinkedIn](https://www.linkedin.com/in/chenhao-tan-2a446316/)"
+  description: "Researcher on human-centered AI, communication and intelligence, AI & Scientific Discovery, and AI alignment"
+  footer: |
+    &copy; Chenhao Tan {Year} (made with [Hugo XMin](https://github.com/yihui/hugo-xmin/))
+
+    [Github](https://github.com/ChicagoHAI/) | [Google Scholar](https://scholar.google.com/citations?user=KGMaP18AAAAJ&hl=en) | [X](https://x.com/ChenhaoTan) | [Bluesky](https://bsky.app/profile/chenhaotan.bsky.social) | [LinkedIn](https://www.linkedin.com/in/chenhao-tan-2a446316/)
 
 markup:
   highlight:

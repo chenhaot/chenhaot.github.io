@@ -1,2 +1,16 @@
 <script src="https://kit.fontawesome.com/cdd93c4598.js" crossorigin="anonymous"></script>
 {{ template "_internal/google_analytics.html" . }}
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | default .Site.Params.description }}{{ end }}">
+<meta property="og:image" content="{{ .Site.BaseURL }}/images/web_circle_small.jpg">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary">
+<meta property="twitter:url" content="{{ .Permalink }}">
+<meta property="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | default .Site.Params.description }}{{ end }}">
+<meta property="twitter:image" content="{{ .Site.BaseURL }}/images/web_circle_small.jpg">
