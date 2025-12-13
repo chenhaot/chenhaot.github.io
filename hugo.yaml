@@ -1,8 +1,8 @@
 baseurl: "https://chenhaot.github.io"  # please update this to your actual URL
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Welcome to Chenhao Tan's Personal Website!"
 theme: "hugo-xmin"
-googleAnalytics: "UA-49950088-1"
+googleAnalytics: "G-QD5VPF7ZFK"
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"

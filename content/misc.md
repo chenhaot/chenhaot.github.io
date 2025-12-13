@@ -2,7 +2,8 @@
 title: Misc
 ---
 
-I attended CAOSS (Computational and Online Social Science) 2012 in NYC. I wrote a brief summary containing the works covered in the workshop. [[PDF][caoss_pdf]]   
+
+I attended CAOSS (Computational and Online Social Science) 2012 in NYC. I wrote a brief summary containing the works covered in the workshop. \[[PDF][caoss_pdf]\]   
 
 I lived in [Telluride House][telluride_wiki] for four years. It has been quite an enriching experience to live with people from various backgrounds.
 

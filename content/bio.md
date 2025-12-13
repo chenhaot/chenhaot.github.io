@@ -1,30 +1,29 @@
 ---
-title: Biography
-tags: biography
-summary: a short history of my life.
+title: Bio
 ---
 
-## Biography
+Tags: Biography
+Summary: a short history of my life.
+
+
 
 I moved to the University of Chicago after 3.5 wonderful years at Boulder. Before Boulder, I was a postdoctoral researcher at [University of Washington][uw], working with [Noah Smith][noah_smith] for a year.
 Prior to that, I spent wonderful years at Ithaca working with [Lillian Lee][lillian_lee] and [many others][collaborators],
 and obtained a PhD degree in [Computer Science][cornell_cs] at [Cornell University][cornell].
-I also worked as a visiting scientist at [Abridge](https://www.abridge.com/).
 Originally, I am from [Jingdezhen, China][jingdezhen_wiki] and lived in Beijing for four years while studying [Computer Science][tsinghua_cs] and [Economics][tsinghua_econ] at [Tsinghua University][tsinghua].    
 
 
 
-You are here probably because you are interested in learning about life trajectories. I have a [paper](/papers/multi-community) on that subject, and the main takeaway is "People, unlike trees, thrive by relocation".
+You are here probably because you are interested in learning about life trajectories. I have a [paper](/papers/multi-community.html) on that subject, and the main takeaway is "People, unlike trees, thrive by relocation".
 
 
 If you are looking for a formal bio, here is the most recent one:  
    
-Chenhao Tan is an associate professor of computer science and data science at the University of Chicago, and is also a visiting scientist at Abridge. He obtained his PhD degree in the Department of Computer Science at Cornell University and bachelor's degrees in computer science and in economics from Tsinghua University. Prior to joining the University of Chicago, he was an assistant professor at the University of Colorado Boulder and a postdoc at the University of Washington. His research interests include human-centered AI, natural language processing, and computational social science. His work has been covered by many news media outlets, such as the New York Times and the Washington Post. He also won a Sloan research fellowship, an NSF CAREER award, an NSF CRII award, a Google research scholar award, research awards from Amazon, IBM, JP Morgan, and Salesforce, a Facebook fellowship, and a Yahoo! Key Scientific Challenges award.
-
+Chenhao Tan is an Associate Professor of Computer Science and Data Science at the University of Chicago, and directs the Chicago Human+AI Lab. He earned his PhD in Computer Science from Cornell University and dual bachelor's degrees in computer science and economics from Tsinghua University. His research focuses on human-centered AI, communication & intelligence, and AI alignment. His work has been covered by major news media outlets, including the New York Times and the Washington Post. He also won a Sloan research fellowship, an NSF CAREER award, an NSF CRII award, a Google research scholar award, research awards from Amazon, IBM, JP Morgan, and Salesforce, a Facebook fellowship, and a Yahoo! Key Scientific Challenges award.
 
 ----
 
-## History of research description on the homepage:
+History of research description on the homepage:
 
 
 #### 01/01/2025 --- 

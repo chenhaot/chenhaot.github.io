@@ -2,10 +2,12 @@
 title: Collaborators
 ---
 
+
 * [Lada Adamic][lada_adamic]
 * David Atkinson
 * Irfanul Alam
 * [Tal August][tal_august]
+* [Xiaoyan Bai][xiaoyan_bai]
 * Rajat Bhatnagar
 *  [Anita Blanchard][anita_blanchard]
 * [Will Brackenbury][will_brackenbury]
@@ -39,12 +41,14 @@ title: Collaborators
 * Zhengzhe Fu
 * [Evgeniy Gabrilovich][evgeniy_gabrilovich]
 * Bo Gao
+* [Cristina Garbacea][cristina_garbacea]
 * [Xiaochuang Han][xiaochuang_han]
 * [He He][he_he]
 * [Mourad Heddaya][mourad_heddaya]
 * [Jack Hessel][jack_hessel]
 * [Chao-Chun Hsu][chaochun_hsu]
 * William Howell
+* Sicong Huang
 * [David Huffaker][david_huffaker]
 * [Yangfeng Ji][yangfeng_ji]
 * Long Jiang
@@ -64,6 +68,8 @@ title: Collaborators
 * [Lillian Lee][lillian_lee]
 * [Tao Lei][tao_lei]
 * [Omer Levy][omer_levy]
+* Hanchen Li
+* Mingxuan Li
 * [Ping Li][ping_li]
 * Tian Li
 * Yafeng Li
@@ -100,6 +106,7 @@ title: Collaborators
 * [Nigini Oliveira][nigini_oliveira]
 * [Bo Pang][bo_pang]
 * [Hao Peng][hao_peng]
+* Ike Peng
 * [Alex 'Sandy' Pentland][sandy_pentland]
 * Gale H. Prinster
 * Natraj Raman
@@ -108,6 +115,7 @@ title: Collaborators
 * [Daniel M. Romero][daniel_romero]
 * [Anne Ross][anne_ross]
 * Xiaoming Shi
+* Aditya Singh
 * Jenna Sparks
 * [Lea Stern][lea_stern]
 * [Roy Schwartz][roy_schwartz]
@@ -137,6 +145,7 @@ title: Collaborators
 * [Michael S. Weisbach][michael_weisbach]
 * Fei Wu
 * [Shaomei Wu][shaomei_wu]
+* [Lexing Xie][lexing_xie]
 * Siqiao Xue
 * Xuan Yang
 * [Yang Yang][yang_yang]
@@ -155,6 +164,7 @@ title: Collaborators
 [//]: <> (links for collaborators)
 [lada_adamic]: http://www.ladamic.com/
 [tal_august]: https://homes.cs.washington.edu/~taugust/
+[xiaoyan_bai]: https://elena-baixy.github.io/
 [will_brackenbury]: https://wbrackenbury.github.io
 [anita_blanchard]: https://pages.charlotte.edu/anitablanchard/
 [kevin_bryson]: https://cs.uchicago.edu/people/kevin-bryson/
@@ -178,6 +188,7 @@ title: Collaborators
 [michael_franklin]: https://cs.uchicago.edu/people/michael-franklin/
 [adrien_friggeri]: http://www.friggeri.net/
 [evgeniy_gabrilovich]: http://www.cs.technion.ac.il/~gabr/
+[cristina_garbacea]: https://cristinagarbacea.com/
 [xiaochuang_han]: https://xhan77.github.io/
 [he_he]: https://hhexiy.github.io/
 [mourad_heddaya]: https://people.cs.uchicago.edu/~mourad/
@@ -251,6 +262,7 @@ title: Collaborators
 [sebastian_martschat]: http://smartschat.de/
 [yangfeng_ji]: http://jiyfeng.github.io/
 [blase_ur]: http://blaseur.com
+[lexing_xie]: https://users.cecs.anu.edu.au/~xlx/
 [rob_voigt]: https://faculty.wcas.northwestern.edu/robvoigt/
 [michael_weisbach]: https://u.osu.edu/weisbach.2/
 [yang_yang]: http://yangy.org/

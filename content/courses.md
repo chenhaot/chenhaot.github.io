@@ -2,6 +2,7 @@
 title: Courses
 ---
 
+
 * [Human-Centered Machine Learning](https://github.com/ChicagoHAI/human-centered-machine-learning) (Spring 2021) at the University of Chicago
 
 *  [Natural Language Processing](https://canvas.uchicago.edu/courses/32962) (Winter 2021) at the University of Chicago

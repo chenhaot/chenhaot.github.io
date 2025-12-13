@@ -2,6 +2,7 @@
 title: Students
 ---
 
+
 Check our lab [page](https://chicagohai.github.io/) for more updated information!
 
 
@@ -38,11 +39,8 @@ Masters
 
 Undergraduates
 
-* Eunsol Choi (class of 2012, Cornell, honorable mention for the CRA Outstanding Undergraduate Research Award in 2011).
-* Kelvin Luu (class of 2015, Cornell), now a PhD student at the University of Washington. 
-* Cora Schneck (class of 2018, University of Colorado Boulder).
-* Xiaochuang Han (class of 2019, Georgia Tech).
-* David Atkinson (class of 2019, University of Colorado Boulder).
+* Eunsol Choi (class of 2012, Cornell, honorable mention for the CRA Outstanding Undergraduate Research Award in 2011).* Kelvin Luu (class of 2015, Cornell), now a PhD student at the University of Washington. 
+* Cora Schneck (class of 2018, University of Colorado Boulder).* Xiaochuang Han (class of 2019, Georgia Tech).* David Atkinson (class of 2019, University of Colorado Boulder).
 * Yangqiaoyu Zhou (class of 2020, Carleton College)
 * Jie Wang (class of 2020, University of Colorado Boulder)
 * Zhenqi Li (class of 2020, University of Colorado Boulder)

@@ -459,13 +459,4 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 [yiming_zhang]: https://y0mingzhang.github.io/
 [karen_zhou]: https://karen-zhou.com/
 [rosa_zhou]: https://rosafish.github.io
-
-
-
-
-
-
-
-
-
 [gs_profile]:http://scholar.google.com/citations?user=KGMaP18AAAAJ&hl=en
