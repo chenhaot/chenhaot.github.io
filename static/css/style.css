@@ -5,6 +5,14 @@ body {
   line-height: 1.5;
 }
 
+/* links */
+a {
+  color: #4A90E2;
+}
+a:visited {
+  color: #7B68AD;
+}
+
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; padding: 5px;}

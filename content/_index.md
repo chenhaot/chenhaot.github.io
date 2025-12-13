@@ -19,9 +19,7 @@ The central question of my current interest lies in how we can build an effectiv
 * **Complementary AI**: How can we develop AI that accounts for human intuitions/biases and complement human intelligence/enable humans to supervise powerful AI that outperforms humans ("scalable oversight")? This requires us to model human intuitions/biases and address them constructively. We have done some prior work on the important role of human similarity judgments in [case-based explanations](https://arxiv.org/abs/2303.04809) and generally [machine explanations](https://arxiv.org/abs/2202.04092). But we will need fundamental breakthroughs in behavioral sciences, which in turn inform AI modeling/inference.
 * **Interpretability**: How can we make sense of (powerful) AI that is much better than humans? I am most interested in interpretability for expanding human knowledge (e.g., in scientific discoveries) and for improving the controllability of AI. It is important to explore opportunities in the absence of identifiability.
 
-In general, goals matter more to me than the specific problem or method. For instance, while hallucination is not among the above problems, I spend a lot of time thinking about hallucination at Abridge, as non-factual statements are very problematic for generating clinical notes in healthcare.
-
-If you are interested in seeing how my research description has evolved, you can check this [page](/bio).
+In general, goals matter more to me than the specific problem or method. If you are interested in seeing how my research description has evolved, you can check this [page](/bio).
 
 <u>Recent talk</u>:
 
