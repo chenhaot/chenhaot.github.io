@@ -1,10 +1,8 @@
 ---
 title: Bio
+tags: biography
+summary: a short history of my life.
 ---
-
-Tags: Biography
-Summary: a short history of my life.
-
 
 
 I moved to the University of Chicago after 3.5 wonderful years at Boulder. Before Boulder, I was a postdoctoral researcher at [University of Washington][uw], working with [Noah Smith][noah_smith] for a year.
@@ -14,7 +12,7 @@ Originally, I am from [Jingdezhen, China][jingdezhen_wiki] and lived in Beijing 
 
 
 
-You are here probably because you are interested in learning about life trajectories. I have a [paper](/papers/multi-community.html) on that subject, and the main takeaway is "People, unlike trees, thrive by relocation".
+You are here probably because you are interested in learning about life trajectories. I have a [paper](/papers/multi-community) on that subject, and the main takeaway is "People, unlike trees, thrive by relocation".
 
 
 If you are looking for a formal bio, here is the most recent one:  
