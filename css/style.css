@@ -1,8 +1,16 @@
 body {
-  max-width: 90%;
+  max-width: 800px;
   margin: auto;
   padding: 1em;
   line-height: 1.5;
+}
+
+/* links */
+a {
+  color: #4A90E2;
+}
+a:visited {
+  color: #7B68AD;
 }
 
 /* header and footer areas */
