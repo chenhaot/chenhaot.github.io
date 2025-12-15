@@ -62,7 +62,7 @@ the past. If you are interested in seeing how my research description has evolve
 As of fall 2025, you can apply to work with me through      
 
 * the UChicago [Computer Science PhD program](https://cs.uchicago.edu/academics/admission/?phd), 
-* the UChicago [Data Science PhD program](https://codas.uchicago.edu/how-to-apply/) (the first ever cohort!), 
+* the UChicago [Data Science PhD program](https://codas.uchicago.edu/how-to-apply/), 
 * the [Data Science Instituite Postdoctoral program](https://datascience.uchicago.edu/research/postdoctoral-programs/dsi-scholars/#description) (**If you applied to the DSI postdoc program and mentioned me as an advisor, please send me an email because I can potentially support you with my own funding**).
 
 **I also have a postdoc opening on novel intelligence that can start any time.** Please email
