@@ -23,10 +23,10 @@ My research aims to develop the best AI for humans. I am mainly interested in th
   interpretability (e.g., [concept incongruence](https://arxiv.org/abs/2505.14905) and [MechEvalAgents](https://tinyurl.com/MechEvalAgents)). I am also interested in novel ways that LLMs can unlock human understanding
   (e.g., [communication games](https://hrsimulator.communicationgames.ai/)).
 * AI & Democratic Processes. AI is reshaping how we can produce and consume information. In addition
-  to scientific discovery, I am also interested in how AI will or can influence democratic
+  to scientific discovery, I am interested in how AI will or can influence democratic
   processes. We are actively working on CivicChat (stay tuned).
 
-Drivin by exciting progress in AI, I find myself updating this description at much higher pace than in
+Driven by exciting progress in AI, I find myself updating this description at much higher pace than in
 the past. If you are interested in seeing how my research description has evolved, you can check this
 [page](/bio).
 
