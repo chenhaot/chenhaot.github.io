@@ -11,26 +11,28 @@ I direct the [Chicago Human+AI lab](https://chicagohai.github.io/) (CHAI) (<a hr
 You can learn more about my life trajectory and find my official biography [here](/bio).
 
 
-My research brings together social sciences and machine learning to develop the best AI for humans. The applications that I am most interested in are 1) scientific discoveries, 2) healthcare, and 3) governance and democratic processes (ordered by random coin flips).   
+My research aims to develop the best AI for humans. I am mainly interested in the following problems.
 
-The central question of my current interest lies in how we can build an effective communication protocol between humans and AI. Here are some example problems that I think will contribute to this question:
+* AI & Scientific Discovery. We aim to 1)
+  develop research agents to improve scientific research at all stages (e.g., [idea
+  explorer](https://github.com/ChicagoHAI/idea-explorer) and [hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation)); 2) work with domain scientists (check out
+  [AI and Science online seminar](https://ai-scientific-discovery.github.io/)); and 3) investigate theories on scientist-AI collaboration, both on
+  incentives and tacit knowledge.
+* Understanding and improving LLMs. The most direct application of AI in science for me is to AI
+  itself. We aim to understand model behavior through both prompting science and mechanistic
+  interpretability (e.g., [concept incongruence](https://arxiv.org/abs/2505.14905) and [MechEvalAgents](https://tinyurl.com/MechEvalAgents)). I am also interested in novel ways that LLMs can unlock human understanding
+  (e.g., [communication games](https://hrsimulator.communicationgames.ai/)).
+* AI & Democratic Processes. AI is reshaping how we can produce and consume information. In addition
+  to scientific discovery, I am also interested in how AI will or can influence democratic
+  processes. We are actively working on CivicChat (stay tuned).
 
-* **Specification**: How can we help AI understand human goals and help humans specify their goals? Prompting and reinforcement learning from human feedback are the main paradigms right now, but what about goals that cannot be easily described or elicited through human preferences? Examples include [data-driven hypothesis generation](https://chicagohai.github.io/hypogenic-demo/) and [decision-focused summarization](https://arxiv.org/abs/2109.06896).
-* **Complementary AI**: How can we develop AI that accounts for human intuitions/biases and complement human intelligence/enable humans to supervise powerful AI that outperforms humans ("scalable oversight")? This requires us to model human intuitions/biases and address them constructively. We have done some prior work on the important role of human similarity judgments in [case-based explanations](https://arxiv.org/abs/2303.04809) and generally [machine explanations](https://arxiv.org/abs/2202.04092). But we will need fundamental breakthroughs in behavioral sciences, which in turn inform AI modeling/inference.
-* **Interpretability**: How can we make sense of (powerful) AI that is much better than humans? I am most interested in interpretability for expanding human knowledge (e.g., in scientific discoveries) and for improving the controllability of AI. It is important to explore opportunities in the absence of identifiability.
-
-In general, goals matter more to me than the specific problem or method. If you are interested in seeing how my research description has evolved, you can check this [page](/bio).
-
-<u>Recent talk</u>:
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-uugw4ElFFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Drivin by exciting progress in AI, I find myself updating this description at much higher pace than in
+the past. If you are interested in seeing how my research description has evolved, you can check this
+[page](/bio).
 
 <u>News</u>:
 
 * We are running [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition), where you vote on ideas and we will implement them with research agents for you! Please [vote](https://hypogenic.ai/arena)!
-* A short accompany [post](/recruiting) to my emoji-filled [recruiting ad](https://x.com/ChenhaoTan/status/1985422996786602140).
 * New blog: [The Mirage of Autonomous AI Scientists](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists).
 * I am co-organizing an online seminar on [AI & Scientific Discovery](https://ai-scientific-discovery.github.io/). Check it out!
 * We have developed a communication game called [HR Simulator&#8482;](https://hrsimulator.communicationgames.ai/). See if you can handle office drama better than LLMs!
@@ -39,9 +41,18 @@ In general, goals matter more to me than the specific problem or method. If you 
 <u>Selected recent work</u>
 
 * [Haokun Liu\*][haokun_liu], [Yangqiaoyu Zhou\*][rosa_zhou], Mingxuan Li\*, Chenfei Yuan, and _Chenhao Tan_. [Literature Meets Data: A Synergistic Approach to Hypothesis Generation](https://arxiv.org/abs/2410.17309). [[Website]](https://chicagohai.github.io/hypogenic-demo/)
-* [Yangqiaoyu Zhou][rosa_zhou], [Haokun Liu][haokun_liu], Tejes Srivastava, [Hongyuan Mei][hongyuan_mei], and _Chenhao Tan_. [Hypothesis Generation with Large Language Models](https://arxiv.org/abs/2404.04326). NLP4Science workshop at EMNLP 2024.
-* [Chacha Chen][chacha_chen], [Shi Feng][shi_feng], [Amit Sharma][amit_sharma], and _Chenhao Tan_. [Machine Explanations and Human Understanding](https://arxiv.org/abs/2202.04092). Accepted at Transactions on Machine Learning Research (TMLR); presented at FAccT 2023; **Best paper award** at the ICML 2022 Workshop on Human-Machine Collaboration and Teaming ([workshop version](https://drive.google.com/file/d/1Wi7toZjzIIDG3jAULnrb3UXTu49aJCeq/view?usp=sharing)).
-* [Han Liu][han_liu], [Yizhou Tian](https://harry-tian.github.io), [Chacha Chen][chacha_chen], [Shi Feng][shi_feng], [Yuxin Chen][yuxin_chen], and _Chenhao Tan_. [Learning Human-Compatible Representations for Case-Based Decision Support](https://arxiv.org/abs/2303.04809). In Proceedings of ICLR 2023.
+* [Yangqiaoyu Zhou][rosa_zhou], [Haokun Liu][haokun_liu], Tejes Srivastava, [Hongyuan
+  Mei][hongyuan_mei], and _Chenhao Tan_. [Hypothesis Generation with Large Language
+  Models](https://arxiv.org/abs/2404.04326). NLP4Science workshop at EMNLP 2024.  
+* Ari Holtzman and _Chenhao Tan_. [Prompting as Scientific Inquiry](https://arxiv.org/abs/2507.00163). NeurIPS 2025 (position papers track). [[Blog](https://cichicago.substack.com/p/prompting-as-scientific-inquiry)]
+* [Xiaoyan Bai][xiaoyan_bai], Ike Peng, Aditya Singh, and _Chenhao Tan_. [Concept Incongruence: An Exploration of Time and Death in Role Playing](https://arxiv.org/abs/2505.14905). NeurIPS 2025. [[Blog](https://cichicago.substack.com/p/concept-incongruence-is-key-to-ai)]
+
+
+<u>Recent talk</u>:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-uugw4ElFFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
@@ -54,7 +65,8 @@ As of fall 2025, you can apply to work with me through
 * the UChicago [Data Science PhD program](https://codas.uchicago.edu/how-to-apply/) (the first ever cohort!), 
 * the [Data Science Instituite Postdoctoral program](https://datascience.uchicago.edu/research/postdoctoral-programs/dsi-scholars/#description) (**If you applied to the DSI postdoc program and mentioned me as an advisor, please send me an email because I can potentially support you with my own funding**).
 
-**I also have a postdoc opening on novel intelligence that can start any time.** Please email [me](/contact) your CV and names of references.  I am particularly open to students who have background in medicine and policy (e.g., MD/PhD and PhD students in economics).
+**I also have a postdoc opening on novel intelligence that can start any time.** Please email
+[me](/contact) your CV and names of references. 
 I am always looking for motivated masters and undergraduate students who are interested in
 Human-centered AI, Communication & Intelligence, AI & Scientific Discovery, and AI alignment.
 Please read this [FAQ][faq_link] before contacting me.

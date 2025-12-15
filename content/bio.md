@@ -23,8 +23,25 @@ Chenhao Tan is an Associate Professor of Computer Science and Data Science at th
 
 History of research description on the homepage:
 
+#### since 12/15/2025
 
-#### 01/01/2025 --- 
+
+My research aims to develop the best AI for humans. I am mainly interested in the following problems.
+
+* AI & Scientific Discovery. We aim to 1)
+  develop research agents to improve scientific research at all stages (e.g., [idea
+  explorer](https://github.com/ChicagoHAI/idea-explorer) and [hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation)); 2) work with domain scientists (check out
+  [AI and Science online seminar](https://ai-scientific-discovery.github.io/)); and 3) investigate theories on scientist-AI collaboration, both on
+  incentives and tacit knowledge.
+* Understanding and improving LLMs. The most direct application of AI in science for me is to AI
+  itself. We aim to understand model behavior through both prompting science and mechanistic
+  interpretability (e.g., [concept incongruence](https://arxiv.org/abs/2505.14905) and [MechEvalAgents](https://tinyurl.com/MechEvalAgents)). I am also interested in novel ways that LLMs can unlock human understanding
+  (e.g., [communication games](https://hrsimulator.communicationgames.ai/)).
+* AI & Democratic Processes. AI is reshaping how we can produce and consume information. In addition
+  to scientific discovery, I am also interested in how AI will or can influence democratic
+  processes. We are actively working on CivicChat (stay tuned).
+
+#### 01/01/2025 --- 12/14/2025
 
 My research brings together social sciences and machine learning to develop the best AI for humans. The applications that I am most interested in are 1) scientific discoveries, 2) healthcare, and 3) governance and democratic processes (ordered by random coin flips).   
 
