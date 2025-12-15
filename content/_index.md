@@ -38,7 +38,7 @@ the past. If you are interested in seeing how my research description has evolve
 * We have developed a communication game called [HR Simulator&#8482;](https://hrsimulator.communicationgames.ai/). See if you can handle office drama better than LLMs!
 
 
-<u>Selected recent work</u>
+<u>Selected recent work</u>:
 
 * [Haokun Liu\*][haokun_liu], [Yangqiaoyu Zhou\*][rosa_zhou], Mingxuan Li\*, Chenfei Yuan, and _Chenhao Tan_. [Literature Meets Data: A Synergistic Approach to Hypothesis Generation](https://arxiv.org/abs/2410.17309). [[Website]](https://chicagohai.github.io/hypogenic-demo/)
 * [Yangqiaoyu Zhou][rosa_zhou], [Haokun Liu][haokun_liu], Tejes Srivastava, [Hongyuan
