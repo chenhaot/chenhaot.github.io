@@ -57,7 +57,7 @@ the past. If you are interested in seeing how my research description has evolve
 
 
 
-## Openings
+<u>Openings</u>:
 
 As of fall 2025, you can apply to work with me through      
 
