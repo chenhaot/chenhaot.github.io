@@ -30,9 +30,15 @@ Driven by exciting progress in AI, I find myself updating this description at mu
 the past. If you are interested in seeing how my research description has evolved, you can check this
 [page](/bio).
 
+<u>Weekly fun</u>:
+
+* We are running [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition),
+  where you vote on ideas and we will implement them with research agents for you! Please
+  [vote](https://hypogenic.ai/arena)!
+* Guess whether Ari or I wrote an AI hot take: [ariorchenhao](/ariorchenhao)
+
 <u>News</u>:
 
-* We are running [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition), where you vote on ideas and we will implement them with research agents for you! Please [vote](https://hypogenic.ai/arena)!
 * New blog: [The Mirage of Autonomous AI Scientists](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists).
 * I am co-organizing an online seminar on [AI & Scientific Discovery](https://ai-scientific-discovery.github.io/). Check it out!
 * We have developed a communication game called [HR Simulator&#8482;](https://hrsimulator.communicationgames.ai/). See if you can handle office drama better than LLMs!
