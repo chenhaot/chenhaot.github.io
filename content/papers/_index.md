@@ -256,11 +256,11 @@ In Proceedings of the Conference on Computer-Supported Cooperative Work and Soci
 * _Chenhao Tan, [Jie Tang][jie_tang], [Jimeng Sun][jimeng_sun], Quan Lin, Fengjiao Wang._    
   [Social Action Tracking via Noise Tolerant Time-varying Factor Graphs][kdd10_details].
   In Proceedings of the Sixteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD'2010).     
-  \[[A companion page with details that I made as an undergrad][kdd10_old_details]\]
+  [[A companion page with details that I made as an undergrad][kdd10_old_details]]
 * _Wenbin Tang, [Jie Tang][jie_tang], Chenhao Tan._    
   [Expertise Matching via Constrained-based Optimization][wic10_paper].
   In Proceedings of 2010 IEEE/WIC/ACM International Conferences (WIC'2010).    
-  \[[A link to the details of the journal version)][wic10_details]\]
+  [[A link to the details of the journal version)][wic10_details]]
 
 
 [//]: <> (papers and files)
