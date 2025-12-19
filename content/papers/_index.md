@@ -2,10 +2,7 @@
 title: Papers
 ---
 
-
-#### A full list of my publications in chronological order
-
-[[Google scholar profile][gs_profile]]
+[[Google scholar profile][gs_profile]].  
 (Google scholar is usually more up-to-date and I manually check all the paper entries on Google scholar.)
 
 Recent Preprints
