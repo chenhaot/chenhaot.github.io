@@ -35,7 +35,7 @@ the past. If you are interested in seeing how my research description has evolve
 * We are running [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition),
   where you vote on ideas and we will implement them with research agents for you! Please
   [vote](https://hypogenic.ai/arena)!
-* Guess whether Ari or I wrote an AI hot take: [ariorchenhao](/ariorchenhao)
+* Guess whether Ari or I wrote an AI hot take: [Ari or Chenhao!](/ariorchenhao)
 
 <u>News</u>:
 
