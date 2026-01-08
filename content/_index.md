@@ -31,6 +31,10 @@ the past. If you are interested in seeing how my research description has evolve
 [page](/bio).
 
 
+<u>Teaching</u>:
+
+I am teaching [NLP](https://uchicago-nlp-course.github.io/) in winter 2026, and all the course content is public in this Github [organization](https://github.com/orgs/uchicago-nlp-course/repositories).
+
 <u>Weekly fun</u>:
 
 * We are running [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition),
