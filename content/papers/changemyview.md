@@ -17,7 +17,7 @@ We find that persuasive arguments are characterized by interesting patterns of i
 
 [[PDF][paper_link]]
 [[Data][data_link]([README][readme_link])]
-[[Slides][slide_link]]
+
 
 The dataset is also on [ConvoKit](http://convokit.cornell.edu/)!
 
@@ -50,12 +50,11 @@ booktitle = {Proceedings of WWW}
 This work was supported in part by NSF grant IIS-0910664, a Google Research Grant, a Google Faculty Research Award and a Facebook Fellowship. 
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation or other sponsors.
 
-[paper_link]: /pubs/winning-arguments.pdf
-[slide_link]: /talks/cmv-www.pdf
+[paper_link]: https://arxiv.org/abs/1602.01103
 [yanss_interview]: https://youarenotsosmart.com/2016/10/09/yanss-086-change-my-view/
 [readme_link]: /data/cmv/README.txt
-[data_link]: /data/cmv/cmv.tar.bz2
-[latest_link]: /data/cmv/cmv_20161111.jsonlist.gz
+[data_link]: https://drive.google.com/file/d/1K-eGLysQOlBQ4JLe368D8uDXrBf8WMGB/view?usp=drive_link
+[latest_link]: https://drive.google.com/file/d/1ITLA8CU8IZgG1P2RHmXksGRuGoteYXC2/view?usp=drive_link
 [slate_link]: http://www.slate.com/articles/technology/future_tense/2016/02/cornell_research_into_winning_arguments_shows_how_to_win_fights.html
 [wp_link]: https://www.washingtonpost.com/news/wonk/wp/2016/02/10/how-to-change-someones-mind-according-to-science/
 [wp_link_caitlin]: https://www.washingtonpost.com/news/the-intersect/wp/2016/02/11/how-to-win-a-facebook-argument-according-to-science/
