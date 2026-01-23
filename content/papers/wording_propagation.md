@@ -38,9 +38,8 @@ and [Slashdot][slashdot_link], [Brandwatch][brandwatch_link], [Daily Tech Whip][
 _We put a demo online where you can enter two tweets on the same topic and see which one our algorithm thinks will be retweeted more, or play a little quiz game to see how good you are in telling which tweet will be retweeted more._
 [[Try it yourself!][demo_link]]
 
-[[Data][data_link]([README][readme_link])]
+[[Data][data_link]([README][readme_link]) (not working now, I will try my best to fix it)]
 [[PDF][paper_link]]
-[[Slides][slide_link]]
 
 @inproceedings{tan+lee+pang:14,   
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,7 +56,7 @@ booktitle = {Proceedings of ACL}
 This work was supported in part by NSF grant IIS-0910664 and a Google Research Grant.
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation or other sponsors.
 
-[paper_link]: /pubs/wording-effects-message-propagation.pdf
+[paper_link]: https://arxiv.org/abs/1405.1438
 [slide_link]: /pubs/acl-wording.pdf
 [readme_link]: /data/wording-effects/README.txt
 [data_link]: /data/tweet_pair_data.zip
