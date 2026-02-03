@@ -44,9 +44,9 @@ I am teaching [NLP](https://uchicago-nlp-course.github.io/) in winter 2026, and 
 
 <u>News</u>:
 
+* [The Mirage of Autonomous AI Scientists](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists) is updated to a full [paper](papers/mirage_ai_scientist.pdf).
 * I moved my website to be hosted on Github recently due to a server issue. Some old files are not
   recovered yet. If you need them, send me an email and I will let you know when they are back.
-* New blog: [The Mirage of Autonomous AI Scientists](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists).
 * I am co-organizing an online seminar on [AI & Scientific Discovery](https://ai-scientific-discovery.github.io/). Check it out!
 * We have developed a communication game called [HR Simulator&#8482;](https://hrsimulator.communicationgames.ai/). See if you can handle office drama better than LLMs!
 
