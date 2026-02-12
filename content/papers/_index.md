@@ -7,7 +7,7 @@ title: Papers
 
 Recent Preprints
 
-* _Chenhao Tan_ and [Haokun Liu][haokun_liu]. [The Mirage of Autonomous AI Scientists](/mirage_ai_scientist.pdf).
+* _Chenhao Tan_ and [Haokun Liu][haokun_liu]. [The Mirage of Autonomous AI Scientists](https://chenhaot.com/papers/mirage_ai_scientist.pdf).
 * [Xiaoyan Bai][xiaoyan_bai], Alexander Baumgartner, Haojia Sun, Ari Holtzman, and _Chenhao Tan_. [The Story is Not the Science: Execution-Grounded Evaluation of Mechanistic Interpretability Research](https://elena-baixy.github.io/TheStoryisNottheScience.pdf)
 * [Haokun Liu][haokun_liu], Sicong Huang, Jingyu Hu, [Yangqiaoyu Zhou][rosa_zhou], and _Chenhao Tan_. [HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](https://arxiv.org/abs/2504.11524).
 * Michael Cooper, Rohan Wadhawan, John Michael Giorgi, Chenhao Tan, Davis Liang. [The Curious Language Model: Strategic Test-Time Information Acquisition](https://arxiv.org/abs/2506.09173).
