@@ -17,6 +17,9 @@ Recent Preprints
 * Zhizhang Yuan, Fanqi Shen, Meng Li, Yuguo Yu, _Chenhao Tan_, and [Yang Yang][yang_yang]. [BrainWave: A Brain Signal Foundation Model for Clinical Applications](https://arxiv.org/abs/2402.10251).
 
 
+2026
+
+* Aniket Vashishtha, Qirun Dai, Hongyuan Mei, Amit Sharma, _Chenhao Tan_, Hao Peng. [Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code](https://arxiv.org/abs/2510.01539). ICLR 2026.
 
 2025
 
