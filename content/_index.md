@@ -30,6 +30,18 @@ Driven by exciting progress in AI, I find myself updating this description at mu
 the past. If you are interested in seeing how my research description has evolved, you can check this
 [page](/bio).
 
+<u>Our AI & Scientific Discovery Ecosystem</u>:
+
+* [The Mirage of Autonomous AI Scientists](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists). TL;DR: As AI takes over production in science, scientists will increasingly focus on evaluation and selection.
+* Evaluation: [OpenAIReview](https://openaireview.github.io/), [Execution-grounded evaluation](https://arxiv.org/abs/2602.18458) (we are looking for help to merge these two)
+* Selection: [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition),
+  where you vote on ideas and we will implement them with research agents for you! Please
+  [vote](https://hypogenic.ai/arena)!
+* [Weekly seminar on AI & Scientific Discovery](https://ai-scientific-discovery.github.io/)
+* [Discord](https://discord.gg/pyxe22c37G)
+
+More to come soon!
+
 
 <u>Teaching</u>:
 
@@ -37,17 +49,12 @@ I am teaching [NLP](https://uchicago-nlp-course.github.io/) in winter 2026, and 
 
 <u>Weekly fun</u>:
 
-* We are running [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition),
-  where you vote on ideas and we will implement them with research agents for you! Please
-  [vote](https://hypogenic.ai/arena)!
 * Guess whether Ari or I wrote an AI hot take: [Ari or Chenhao!](/ariorchenhao)
 
 <u>News</u>:
 
-* [The Mirage of Autonomous AI Scientists](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists) is updated to a full [paper](papers/mirage_ai_scientist.pdf).
 * I moved my website to be hosted on Github recently due to a server issue. Some old files are not
   recovered yet. If you need them, send me an email and I will let you know when they are back.
-* I am co-organizing an online seminar on [AI & Scientific Discovery](https://ai-scientific-discovery.github.io/). Check it out!
 * We have developed a communication game called [HR Simulator&#8482;](https://hrsimulator.communicationgames.ai/). See if you can handle office drama better than LLMs!
 
 
