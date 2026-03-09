@@ -79,7 +79,9 @@ I am teaching [NLP](https://uchicago-nlp-course.github.io/) in winter 2026, and 
 
 <u>Openings</u>:
 
-As of fall 2025, you can apply to work with me through      
+For all students who are interested in working with me, please check out this [page](https://fossick.ai).
+
+For official positions, as of fall 2025, you can apply to work with me through      
 
 * the UChicago [Computer Science PhD program](https://cs.uchicago.edu/academics/admission/?phd), 
 * the UChicago [Data Science PhD program](https://codas.uchicago.edu/how-to-apply/), 
@@ -87,9 +89,6 @@ As of fall 2025, you can apply to work with me through
 
 **I also have a postdoc opening on novel intelligence that can start any time.** Please email
 [me](/contact) your CV and names of references. 
-I am always looking for motivated masters and undergraduate students who are interested in
-Human-centered AI, Communication & Intelligence, AI & Scientific Discovery, and AI alignment.
-Please read this [FAQ][faq_link] before contacting me.
 
 <u>Demos & Packages</u>
 
