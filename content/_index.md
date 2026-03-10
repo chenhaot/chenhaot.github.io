@@ -37,6 +37,7 @@ the past. If you are interested in seeing how my research description has evolve
 * Selection: [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition),
   where you vote on ideas and we will implement them with research agents for you! Please
   [vote](https://hypogenic.ai/arena)!
+* Production: [NeuriCo](https://github.com/ChicagoHAI/NeuriCo/) (**Neur**al **Co**-Scientist, inspired by Enrico Fermi), in my biased opinion, the best open AI scientist, you should try!
 * [Weekly seminar on AI & Scientific Discovery](https://ai-scientific-discovery.github.io/)
 * [Discord](https://discord.gg/pyxe22c37G)
 
