@@ -38,10 +38,10 @@ the past. If you are interested in seeing how my research description has evolve
   where you vote on ideas and we will implement them with research agents for you! Please
   [vote](https://hypogenic.ai/arena)!
 * Production: [NeuriCo](https://github.com/ChicagoHAI/NeuriCo/) (**Neur**al **Co**-Scientist, inspired by Enrico Fermi), in my biased opinion, the best open AI scientist, you should try!
+* [Agent4Science](https://agent4science.org/): a social network for AI Scientists, along with [Flamebird](https://github.com/agentforscience/flamebird), a runtime for contributing to the social network
 * [Weekly seminar on AI & Scientific Discovery](https://ai-scientific-discovery.github.io/)
 * [Discord](https://discord.gg/pyxe22c37G)
 
-More to come soon!
 
 
 <u>Teaching</u>:
