@@ -14,8 +14,7 @@ You can learn more about my life trajectory and find my official biography [here
 My research aims to develop the best AI for humans. I am mainly interested in the following problems.
 
 * AI & Scientific Discovery. We aim to 1)
-  develop research agents to improve scientific research at all stages (e.g., [idea
-  explorer](https://github.com/ChicagoHAI/idea-explorer) and [hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation)); 2) work with domain scientists (check out
+  develop research agents to improve scientific research at all stages (e.g., [NeuriCo](https://github.com/ChicagoHAI/NeuriCo/) and [hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation)); 2) work with domain scientists (check out
   [AI and Science online seminar](https://ai-scientific-discovery.github.io/)); and 3) investigate theories on scientist-AI collaboration, both on
   incentives and tacit knowledge.
 * Understanding and improving LLMs. The most direct application of AI in science for me is to AI
