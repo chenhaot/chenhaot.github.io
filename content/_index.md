@@ -45,7 +45,8 @@ the past. If you are interested in seeing how my research description has evolve
 
 <u>Teaching</u>:
 
-I am teaching [NLP](https://uchicago-nlp-course.github.io/) in winter 2026, and all the course content is public in this Github [organization](https://github.com/orgs/uchicago-nlp-course/repositories).
+* [Large Language Models](https://uchicago-llm-course.github.io/) (Spring 2026), and all the course content is public in this Github [organization](https://github.com/orgs/uchicago-llm-course/repositories).
+* [Natural Language Processing](https://uchicago-nlp-course.github.io/) (Winter 2026), and all the course content is public in this Github [organization](https://github.com/orgs/uchicago-nlp-course/repositories).
 
 <u>Weekly fun</u>:
 
