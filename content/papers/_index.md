@@ -22,6 +22,7 @@ Recent Preprints
 * Mingxuan Li, Hanchen Li, and _Chenhao Tan_. [HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation](https://arxiv.org/abs/2504.07174). ACL 2026.
 * [Cristina Garbacea][cristina_garbacea], Heran Wang, _Chenhao Tan_. [Personalized Benchmarking: Evaluating LLMs by Individual Preferences](https://arxiv.org/abs/2604.18943v1). Findings of ACL 2026.
 * Mourad Heddaya, Manley Roberts, Rohan Wadhawan, _Chenhao Tan_. When Internalization Fails: Finding Better Targets for Reasoning Compression. Findings of ACL 2026.
+* Lan Gao, Abani Ahmed, Oscar Chen, Margaux Reyl, Zayna Cheema, Nick Feamster, _Chenhao Tan_, Kurt Thomas, Marshini Chetty. 2026. [Governance of AI-Generated Content: A Case Study on Social Media Platforms](https://dl.acm.org/doi/full/10.1145/3772318.3790415). In CHI Conference on Human Factors in Computing Systems Proceedings (CHI’ 26)
 * Aniket Vashishtha, Qirun Dai, Hongyuan Mei, Amit Sharma, _Chenhao Tan_, Hao Peng. [Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code](https://arxiv.org/abs/2510.01539). ICLR 2026.
 
 2025
