@@ -11,7 +11,6 @@ Recent Preprints
 * [Xiaoyan Bai][xiaoyan_bai], Alexander Baumgartner, Haojia Sun, Ari Holtzman, and _Chenhao Tan_. [The Story is Not the Science: Execution-Grounded Evaluation of Mechanistic Interpretability Research](https://elena-baixy.github.io/TheStoryisNottheScience.pdf)
 * [Haokun Liu][haokun_liu], Sicong Huang, Jingyu Hu, [Yangqiaoyu Zhou][rosa_zhou], and _Chenhao Tan_. [HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](https://arxiv.org/abs/2504.11524).
 * Michael Cooper, Rohan Wadhawan, John Michael Giorgi, Chenhao Tan, Davis Liang. [The Curious Language Model: Strategic Test-Time Information Acquisition](https://arxiv.org/abs/2506.09173).
-* Mingxuan Li, Hanchen Li, and _Chenhao Tan_. [HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation](https://arxiv.org/abs/2504.07174).
 * [Cristina Garbacea][cristina_garbacea] and _Chenhao Tan_. [HyPerAlign: Interpretable Personalized LLM Alignment via Hypothesis Generation](https://arxiv.org/abs/2505.00038).
 * [Mourad Heddaya][mourad_heddaya], _Chenhao Tan_, [Rob Voigt][rob_voigt], Qingcheng Zeng, and [Alexander Zentefis][alex_zentefis]. [A Century of Inflation Narratives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259107).
 * Zhizhang Yuan, Fanqi Shen, Meng Li, Yuguo Yu, _Chenhao Tan_, and [Yang Yang][yang_yang]. [BrainWave: A Brain Signal Foundation Model for Clinical Applications](https://arxiv.org/abs/2402.10251).
@@ -19,6 +18,10 @@ Recent Preprints
 
 2026
 
+* [Yuyang Jiang][yuyang_jiang], [Chacha Chen][chacha_chen], Teng Wu, Liwen Sun, [Han Liu][han_liu], [Shi Feng][shi_feng], _Chenhao Tan_. Collaborative Disagreement Resolution for Scalable Oversight. ICML 2026.
+* Mingxuan Li, Hanchen Li, and _Chenhao Tan_. [HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation](https://arxiv.org/abs/2504.07174). ACL 2026.
+* [Cristina Garbacea][cristina_garbacea], Heran Wang, _Chenhao Tan_. [Personalized Benchmarking: Evaluating LLMs by Individual Preferences](https://arxiv.org/abs/2604.18943v1). Findings of ACL 2026.
+* Mourad Heddaya, Manley Roberts, Rohan Wadhawan, _Chenhao Tan_. When Internalization Fails: Finding Better Targets for Reasoning Compression. Findings of ACL 2026.
 * Aniket Vashishtha, Qirun Dai, Hongyuan Mei, Amit Sharma, _Chenhao Tan_, Hao Peng. [Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code](https://arxiv.org/abs/2510.01539). ICLR 2026.
 
 2025
