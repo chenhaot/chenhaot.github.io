@@ -7,6 +7,9 @@ title: Papers
 
 Recent Preprints
 
+* Zephaniah Roe, Jack Sanderson, Dang Nguyen, Julian Huang, Todd Nief, Aryan Shrivastava, _Chenhao Tan_, Ari Holtzman. [Iterative Finetuning is Mostly Idempotent](https://arxiv.org/abs/2605.01130).
+* Dang Nguyen, Harvey Yiyun Fu, Peter West, Ari Holtzman, _Chenhao Tan_. [Moral Mazes in the Era of LLMs](https://arxiv.org/abs/2603.20231).
+* [Haokun Liu][haokun_liu] and _Chenhao Tan_. [AI-Assisted Reviewing is Necessary for Avoiding the Review Death Spiral](https://openaireview.org/assets/review-death-spiral.pdf).
 * _Chenhao Tan_ and [Haokun Liu][haokun_liu]. [The Mirage of Autonomous AI Scientists](https://chenhaot.com/papers/mirage_ai_scientist.pdf).
 * [Xiaoyan Bai][xiaoyan_bai], Alexander Baumgartner, Haojia Sun, Ari Holtzman, and _Chenhao Tan_. [The Story is Not the Science: Execution-Grounded Evaluation of Mechanistic Interpretability Research](https://elena-baixy.github.io/TheStoryisNottheScience.pdf)
 * [Haokun Liu][haokun_liu], Sicong Huang, Jingyu Hu, [Yangqiaoyu Zhou][rosa_zhou], and _Chenhao Tan_. [HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](https://arxiv.org/abs/2504.11524).
