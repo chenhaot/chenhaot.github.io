@@ -6,8 +6,9 @@ title: Home
 
 # Chenhao Tan (谭宸浩)
 
-I am an associate professor at the [Department of Computer Science][uchicago_cs] and [Data Science][uchicago_dsi] at the [University of Chicago][uchicago].
+I am an associate professor at the [Department of Computer Science][uchicago_cs] and [Data Science][uchicago_dsi] at the [University of Chicago][uchicago]. 
 I direct the [Chicago Human+AI lab](https://chicagohai.github.io/) (CHAI) (<a href="https://bsky.app/profile/chicagohai.bsky.social"><i class="fa-brands fa-bluesky" style="color: #74C0FC;"></i></a>, <a href="https://x.com/ChicagoHAI"><i class="fa-brands fa-x-twitter"></i></a>).
+I am also a cofounder of [SAI](https://sai.science).
 You can learn more about my life trajectory and find my official biography [here](/bio).
 
 
@@ -28,6 +29,11 @@ My research aims to develop the best AI for humans. I am mainly interested in th
 Driven by exciting progress in AI, I find myself updating this description at much higher pace than in
 the past. If you are interested in seeing how my research description has evolved, you can check this
 [page](/bio).
+
+
+<u>News</u>:
+
+* We recently replicated ICML 2026 oral papers and found that only 7 papers mostly held up. Check out the [blog](https://sai.science/blog/how-much-science-is-verifiable)! Relatedly, [SAI](https://sai.science) provides referee report and detailed inline comments for authors to get high-quality feedback and improve their work.
 
 <u>Our AI & Scientific Discovery Ecosystem</u>:
 
@@ -52,11 +58,6 @@ the past. If you are interested in seeing how my research description has evolve
 
 * Guess whether Ari or I wrote an AI hot take: [Ari or Chenhao!](/ariorchenhao)
 
-<u>News</u>:
-
-* I moved my website to be hosted on Github recently due to a server issue. Some old files are not
-  recovered yet. If you need them, send me an email and I will let you know when they are back.
-* We have developed a communication game called [HR Simulator&#8482;](https://hrsimulator.communicationgames.ai/). See if you can handle office drama better than LLMs!
 
 
 <u>Selected recent work</u>:

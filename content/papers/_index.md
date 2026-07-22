@@ -22,6 +22,7 @@ Recent Preprints
 2026
 
 * Yuyang Jiang, [Chacha Chen][chacha_chen], Teng Wu, Liwen Sun, [Han Liu][han_liu], [Shi Feng][shi_feng], _Chenhao Tan_. Collaborative Disagreement Resolution for Scalable Oversight. ICML 2026.
+* Karen Zhou and _Chenhao Tan_. AutoChecklist: Composable Pipelines for Checklist Generation and Scoring with LLM-as-a-Judge. ACL Demo Track 2026.
 * Mingxuan Li, Hanchen Li, and _Chenhao Tan_. [HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation](https://arxiv.org/abs/2504.07174). ACL 2026.
 * [Cristina Garbacea][cristina_garbacea], Heran Wang, _Chenhao Tan_. [Personalized Benchmarking: Evaluating LLMs by Individual Preferences](https://arxiv.org/abs/2604.18943v1). Findings of ACL 2026.
 * Mourad Heddaya, Manley Roberts, Rohan Wadhawan, _Chenhao Tan_. When Internalization Fails: Finding Better Targets for Reasoning Compression. Findings of ACL 2026.
