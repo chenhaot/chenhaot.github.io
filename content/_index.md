@@ -33,7 +33,7 @@ the past. If you are interested in seeing how my research description has evolve
 
 <u>News</u>:
 
-* We recently replicated ICML 2026 oral papers and found that only 7 papers mostly held up. Check out the [blog](https://sai.science/blog/how-much-science-is-verifiable)! Relatedly, [SAI](https://sai.science) provides referee report and detailed inline comments for authors to get high-quality feedback and improve their work.
+* We recently replicated ICML 2026 oral papers and found that only 7 papers mostly held up. Check out the [blog](https://sai.science/blog/how-much-science-is-verifiable)! [SAI](https://sai.science) also provides referee report and detailed inline comments for authors to get high-quality feedback and improve their work.
 
 <u>Our AI & Scientific Discovery Ecosystem</u>:
 
