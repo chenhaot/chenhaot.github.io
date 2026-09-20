@@ -11,7 +11,6 @@ Recent Preprints
 * Dang Nguyen, Harvey Yiyun Fu, Peter West, Ari Holtzman, _Chenhao Tan_. [Moral Mazes in the Era of LLMs](https://arxiv.org/abs/2603.20231).
 * [Haokun Liu][haokun_liu] and _Chenhao Tan_. [AI-Assisted Reviewing is Necessary for Avoiding the Review Death Spiral](https://openaireview.org/assets/review-death-spiral.pdf).
 * _Chenhao Tan_ and [Haokun Liu][haokun_liu]. [The Mirage of Autonomous AI Scientists](https://chenhaot.com/papers/mirage_ai_scientist.pdf).
-* [Xiaoyan Bai][xiaoyan_bai], Alexander Baumgartner, Haojia Sun, Ari Holtzman, and _Chenhao Tan_. [The Story is Not the Science: Execution-Grounded Evaluation of Mechanistic Interpretability Research](https://elena-baixy.github.io/TheStoryisNottheScience.pdf)
 * [Haokun Liu][haokun_liu], Sicong Huang, Jingyu Hu, [Yangqiaoyu Zhou][rosa_zhou], and _Chenhao Tan_. [HypoBench: Towards Systematic and Principled Benchmarking for Hypothesis Generation](https://arxiv.org/abs/2504.11524).
 * Michael Cooper, Rohan Wadhawan, John Michael Giorgi, Chenhao Tan, Davis Liang. [The Curious Language Model: Strategic Test-Time Information Acquisition](https://arxiv.org/abs/2506.09173).
 * [Cristina Garbacea][cristina_garbacea] and _Chenhao Tan_. [HyPerAlign: Interpretable Personalized LLM Alignment via Hypothesis Generation](https://arxiv.org/abs/2505.00038).
@@ -21,8 +20,11 @@ Recent Preprints
 
 2026
 
-* Yuyang Jiang, [Chacha Chen][chacha_chen], Teng Wu, Liwen Sun, [Han Liu][han_liu], [Shi Feng][shi_feng], _Chenhao Tan_. Collaborative Disagreement Resolution for Scalable Oversight. ICML 2026.
-* Karen Zhou and _Chenhao Tan_. AutoChecklist: Composable Pipelines for Checklist Generation and Scoring with LLM-as-a-Judge. ACL Demo Track 2026.
+* Mingxuan Li, Qirun Dai, Heran Wang, and _Chenhao Tan_. [Emergent Misalignment Is Not Magical](https://arxiv.org/abs/2608.29118). EMNLP 2026.
+* Andrew Ren, Haokun Liu, and _Chenhao Tan_. Robust Failure, Conservative Repair: Textual Knowledge Distillation from Cross-Model Failures. EMNLP 2026.
+* [Xiaoyan Bai][xiaoyan_bai], Alexander Baumgartner, Haojia Sun, Ari Holtzman, and _Chenhao Tan_. [The Story is Not the Science: Execution-Grounded Evaluation of Mechanistic Interpretability Research](https://elena-baixy.github.io/TheStoryisNottheScience.pdf). ICML 2026 AI4Science workshop (Best poster award).
+* Yuyang Jiang, [Chacha Chen][chacha_chen], Teng Wu, Liwen Sun, [Han Liu][han_liu], [Shi Feng][shi_feng], _Chenhao Tan_. [Collaborative Disagreement Resolution for Scalable Oversight](https://arxiv.org/abs/2607.01251). ICML 2026.
+* Karen Zhou and _Chenhao Tan_. [AutoChecklist: Composable Pipelines for Checklist Generation and Scoring with LLM-as-a-Judge](https://arxiv.org/abs/2603.07019). ACL Demo Track 2026.
 * Mingxuan Li, Hanchen Li, and _Chenhao Tan_. [HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation](https://arxiv.org/abs/2504.07174). ACL 2026.
 * [Cristina Garbacea][cristina_garbacea], Heran Wang, _Chenhao Tan_. [Personalized Benchmarking: Evaluating LLMs by Individual Preferences](https://arxiv.org/abs/2604.18943v1). Findings of ACL 2026.
 * Mourad Heddaya, Manley Roberts, Rohan Wadhawan, _Chenhao Tan_. When Internalization Fails: Finding Better Targets for Reasoning Compression. Findings of ACL 2026.
