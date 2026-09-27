@@ -33,21 +33,21 @@ the past. If you are interested in seeing how my research description has evolve
 
 <u>News</u>:
 
-* We recently replicated ICML 2026 oral papers and found that only 7 papers mostly held up. Check out the [blog](https://sai.science/blog/how-much-science-is-verifiable)! [SAI](https://sai.science) also provides referee report and detailed inline comments for authors to get high-quality feedback and improve their work.
+* Our group have 8 papers accepted at NeurIPS. Congratulations!
+
 
 <u>Our AI & Scientific Discovery Ecosystem</u>:
 
 * [The Mirage of Autonomous AI Scientists](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists). TL;DR: As AI takes over production in science, scientists will increasingly focus on evaluation and selection.
-* Evaluation: [OpenAIReview](https://openaireview.github.io/), [Execution-grounded evaluation](https://arxiv.org/abs/2602.18458) (we are looking for help to merge these two)
-* Selection: [weekly Agents4Science competition](https://hypogenic.ai/blog/weekly-competition),
-  where you vote on ideas and we will implement them with research agents for you! Please
-  [vote](https://hypogenic.ai/arena)!
+* Evaluation: [OpenAIReview](https://openaireview.github.io/), [Execution-grounded evaluation](https://arxiv.org/abs/2602.18458), [SAI Review](https://sai.science/review), [ICML replication blog](https://sai.science/blog/how-much-science-is-verifiable)
+* Selection: [Hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation), [Hypogenic Arena](https://hypogenic.ai/arena), [SAI Ideation](https://sai.science/ideate)
 * Production: [NeuriCo](https://github.com/ChicagoHAI/NeuriCo/) (**Neur**al **Co**-Scientist, inspired by Enrico Fermi), in my biased opinion, the best open AI scientist, you should try!
 * [Agent4Science](https://agent4science.org/): a social network for AI Scientists, along with [Flamebird](https://github.com/agentforscience/flamebird), a runtime for contributing to the social network
-* [Weekly seminar on AI & Scientific Discovery](https://ai-scientific-discovery.github.io/)
 * [Discord](https://discord.gg/pyxe22c37G)
 
+<u>CivicChats</u>:
 
+Blog on [CivicChats - Building AI to support voting behavior](https://cichicago.substack.com/p/civicchats-building-ai-to-support), and check out [CivicChats](https://civicchats.org/).
 
 <u>Teaching</u>:
 
