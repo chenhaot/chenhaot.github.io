@@ -33,8 +33,7 @@ the past. If you are interested in seeing how my research description has evolve
 
 <u>News</u>:
 
-* Our group have 8 papers accepted at NeurIPS. Congratulations!
-
+* We launched [Living Science](https://livingscience.ai) to keep influential papers alive!
 
 <u>Our AI & Scientific Discovery Ecosystem</u>:
 
