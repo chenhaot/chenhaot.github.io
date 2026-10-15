@@ -31,10 +31,10 @@ Recent Preprints
 * Karen Zhou and _Chenhao Tan_. [AutoChecklist: Composable Pipelines for Checklist Generation and Scoring with LLM-as-a-Judge](https://arxiv.org/abs/2603.07019). ACL Demo Track 2026.
 * Mingxuan Li, Hanchen Li, and _Chenhao Tan_. [HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation](https://arxiv.org/abs/2504.07174). ACL 2026.
 * [Cristina Garbacea][cristina_garbacea], Heran Wang, _Chenhao Tan_. [Personalized Benchmarking: Evaluating LLMs by Individual Preferences](https://arxiv.org/abs/2604.18943v1). Findings of ACL 2026.
-* Mourad Heddaya, Manley Roberts, Rohan Wadhawan, _Chenhao Tan_. When Internalization Fails: Finding Better Targets for Reasoning Compression. Findings of ACL 2026.
+* Mourad Heddaya, Manley Roberts, Rohan Wadhawan, _Chenhao Tan_. [When Internalization Fails: Finding Better Targets for Reasoning Compression](https://aclanthology.org/2026.findings-acl.734/). Findings of ACL 2026.
 * Lan Gao, Abani Ahmed, Oscar Chen, Margaux Reyl, Zayna Cheema, Nick Feamster, _Chenhao Tan_, Kurt Thomas, Marshini Chetty. 2026. [Governance of AI-Generated Content: A Case Study on Social Media Platforms](https://dl.acm.org/doi/full/10.1145/3772318.3790415). In CHI Conference on Human Factors in Computing Systems Proceedings (CHI’ 26)
 * Aniket Vashishtha, Qirun Dai, Hongyuan Mei, Amit Sharma, _Chenhao Tan_, Hao Peng. [Executable Counterfactuals: Improving LLMs' Causal Reasoning Through Code](https://arxiv.org/abs/2510.01539). ICLR 2026.
-* Xiao Liu, Haokun Liu, _Chenhao Tan_. Heuristic-Based Ideation for Guiding LLMs Toward Structured Creativity. ICLR 2026 (Blog Track).
+* Xiao Liu, Haokun Liu, _Chenhao Tan_. [Heuristic-Based Ideation for Guiding LLMs Toward Structured Creativity](https://iclr-blogposts.github.io/2026/blog/2026/ideation-heuristics/). ICLR 2026 (Blog Track).
 
 2025
 
