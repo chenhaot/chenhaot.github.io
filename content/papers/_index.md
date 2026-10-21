@@ -7,6 +7,9 @@ title: Papers
 
 Recent Preprints
 
+* [Haokun Liu][haokun_liu], Filbert Aurelian Tjiaranata, and _Chenhao Tan_. [VERITAS: Towards a General-Purpose Replication Tool for Scientific Research](https://arxiv.org/abs/2607.02931).
+* Dang Nguyen, Wanqing Hao, Yanai Elazar, and _Chenhao Tan_. [Benchmarking Agentic Review Systems](https://arxiv.org/abs/2606.19749).
+* Zirui Cheng, Joey Chan, Simo Du, _Chenhao Tan_, Yue Guo, and Hao Peng. [Characterizing Rhetorical Misalignment in Decision-Making with Language Models](https://arxiv.org/abs/2608.14630).
 * Zephaniah Roe, Jack Sanderson, Dang Nguyen, Julian Huang, Todd Nief, Aryan Shrivastava, _Chenhao Tan_, Ari Holtzman. [Iterative Finetuning is Mostly Idempotent](https://arxiv.org/abs/2605.01130).
 * Dang Nguyen, Harvey Yiyun Fu, Peter West, Ari Holtzman, _Chenhao Tan_. [Moral Mazes in the Era of LLMs](https://arxiv.org/abs/2603.20231).
 * [Haokun Liu][haokun_liu] and _Chenhao Tan_. [AI-Assisted Reviewing is Necessary for Avoiding the Review Death Spiral](https://openaireview.org/assets/review-death-spiral.pdf).
@@ -21,7 +24,7 @@ Recent Preprints
 
 * Qirun Dai, Xiao Liu, Jiawei Zhang, Dylan Zhang, Hao Peng, and _Chenhao Tan_. [Towards a Universal Causal Reasoner](https://arxiv.org/abs/2605.24873). NeurIPS 2026 (Spotlight).
 * Nathan Delisle and _Chenhao Tan_. Bypassing PC1 Makes SAEs More Reproducible. NeurIPS 2026.
-* Zekai Tong, Ruiyao Xu, Aryan Shrivastava, _Chenhao Tan_, and Ari Holtzman. The Text Uncanny Valley: Non-Monotonic Performance Degradation in LLM Information Retrieval. NeurIPS 2026 (Evaluation and Datasets Track).
+* Zekai Tong, Ruiyao Xu, Aryan Shrivastava, _Chenhao Tan_, and Ari Holtzman. [The Text Uncanny Valley: Non-Monotonic Performance Degradation in LLM Information Retrieval](https://arxiv.org/abs/2605.07186). NeurIPS 2026 (Evaluation and Datasets Track).
 * Xiao Liu, Junsol Kim, Shiyang Lai, Jacy Reese Anthis, Siyang Wu, _Chenhao Tan_, James Evans. Introspection Tools Help LLMs Understand and Control Themselves. NeurIPS 2026 (Position Papers Track).
 * Sanjana Ramprasad, Pranav Mani, _Chenhao Tan_, Byron C Wallace, Elisa Ferracane. Many Benign Errors are Better than A Few Severe Ones: Evaluating Hallucination Severity. NeurIPS 2026 (Evaluation and Datasets Track).
 * Mingxuan Li, Qirun Dai, Heran Wang, and _Chenhao Tan_. [Emergent Misalignment Is Not Magical](https://arxiv.org/abs/2608.29118). EMNLP 2026.
