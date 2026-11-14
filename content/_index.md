@@ -33,41 +33,37 @@ the past. If you are interested in seeing how my research description has evolve
 
 <u>News</u>:
 
+* We wrote a [report](https://sai.science/benchmark-safety-benchmark) to explore safety benchmarks used in mdoels cards.
 * We launched [Living Science](https://livingscience.ai) to keep influential papers alive!
 
 <u>Our AI & Scientific Discovery Ecosystem</u>:
 
 * [The Mirage of Autonomous AI Scientists](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists). TL;DR: As AI takes over production in science, scientists will increasingly focus on evaluation and selection.
-* Evaluation: [OpenAIReview](https://openaireview.github.io/), [Execution-grounded evaluation](https://arxiv.org/abs/2602.18458), [SAI Review](https://sai.science/review), [ICML replication blog](https://sai.science/blog/how-much-science-is-verifiable)
-* Selection: [Hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation), [Hypogenic Arena](https://hypogenic.ai/arena), [SAI Ideation](https://sai.science/ideate)
+* Evaluation: [OpenAIReview](https://openaireview.github.io/), [Execution-grounded evaluation](https://arxiv.org/abs/2602.18458), [SAI Review](https://sai.science/review), [ICML replication blog](https://sai.science/blog/how-much-science-is-verifiable), [Veritas](https://arxiv.org/abs/2607.02931v1)
+* Selection: [Hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation), [SAI Ideation](https://sai.science/ideate)
 * Production: [NeuriCo](https://github.com/ChicagoHAI/NeuriCo/) (**Neur**al **Co**-Scientist, inspired by Enrico Fermi), in my biased opinion, the best open AI scientist, you should try!
-* [Agent4Science](https://agent4science.org/): a social network for AI Scientists, along with [Flamebird](https://github.com/agentforscience/flamebird), a runtime for contributing to the social network
+* [Agent4Science](https://agent4science.org/): a social network for AI Scientists, along with [Flamebird](https://github.com/agentforscience/flamebird), a runtime for contributing to the social network. You should also check out [prove2me](https://prove2.me/), a related project to formalize math.
 * [Discord](https://discord.gg/pyxe22c37G)
 
 <u>CivicChats</u>:
 
-Blog on [CivicChats - Building AI to support voting behavior](https://cichicago.substack.com/p/civicchats-building-ai-to-support), and check out [CivicChats](https://civicchats.org/).
+Blog on [CivicChats - Building AI to support voting behavior](https://cichicago.substack.com/p/civicchats-building-ai-to-support), and check out [CivicChats](https://civicchats.org/) (the website is temporarily down. We are working on bringing it back.).
 
 <u>Teaching</u>:
 
 * [Large Language Models](https://uchicago-llm-course.github.io/) (Spring 2026), and all the course content is public in this Github [organization](https://github.com/orgs/uchicago-llm-course/repositories).
 * [Natural Language Processing](https://uchicago-nlp-course.github.io/) (Winter 2026), and all the course content is public in this Github [organization](https://github.com/orgs/uchicago-nlp-course/repositories).
 
-<u>Weekly fun</u>:
-
-* Guess whether Ari or I wrote an AI hot take: [Ari or Chenhao!](/ariorchenhao)
-
 
 
 <u>Selected recent work</u>:
 
-* [Haokun Liu\*][haokun_liu], [Yangqiaoyu Zhou\*][rosa_zhou], Mingxuan Li\*, Chenfei Yuan, and _Chenhao Tan_. [Literature Meets Data: A Synergistic Approach to Hypothesis Generation](https://arxiv.org/abs/2410.17309). [[Website]](https://chicagohai.github.io/hypogenic-demo/)
-* [Yangqiaoyu Zhou][rosa_zhou], [Haokun Liu][haokun_liu], Tejes Srivastava, [Hongyuan
-  Mei][hongyuan_mei], and _Chenhao Tan_. [Hypothesis Generation with Large Language
-  Models](https://arxiv.org/abs/2404.04326). NLP4Science workshop at EMNLP 2024.  
-* Ari Holtzman and _Chenhao Tan_. [Prompting as Scientific Inquiry](https://arxiv.org/abs/2507.00163). NeurIPS 2025 (position papers track). [[Blog](https://cichicago.substack.com/p/prompting-as-scientific-inquiry)]
-* [Xiaoyan Bai][xiaoyan_bai], Ike Peng, Aditya Singh, and _Chenhao Tan_. [Concept Incongruence: An Exploration of Time and Death in Role Playing](https://arxiv.org/abs/2505.14905). NeurIPS 2025. [[Blog](https://cichicago.substack.com/p/concept-incongruence-is-key-to-ai)]
-
+* Qirun Dai, Xiao Liu, Jiawei Zhang, Dylan Zhang, Hao Peng, and _Chenhao Tan_. [Towards a Universal Causal Reasoner](https://arxiv.org/abs/2605.24873). NeurIPS 2026 (Spotlight).
+* Nathan Delisle and _Chenhao Tan_. [Massive Activations Confound Sparse Autoencoders](https://arxiv.org/abs/2611.13548v1). NeurIPS 2026.
+* Mingxuan Li, Qirun Dai, Heran Wang, and _Chenhao Tan_. [Emergent Misalignment Is Not Magical](https://arxiv.org/abs/2608.29118). EMNLP 2026.
+* [Haokun Liu][haokun_liu], Filbert Aurelian Tjiaranata, and _Chenhao Tan_. [VERITAS: Towards a General-Purpose Replication Tool for Scientific Research](https://arxiv.org/abs/2607.02931).
+* Dang Nguyen, Wanqing Hao, Yanai Elazar, and _Chenhao Tan_. [Benchmarking Agentic Review Systems](https://arxiv.org/abs/2606.19749). NeurIPS 2026 Workshop on AI-Native Academia (Best paper honorable mention).
+* [Xiaoyan Bai][xiaoyan_bai], Alexander Baumgartner, Haojia Sun, Ari Holtzman, and _Chenhao Tan_. [The Story is Not the Science: Execution-Grounded Evaluation of Mechanistic Interpretability Research](https://elena-baixy.github.io/TheStoryisNottheScience.pdf). ICML 2026 AI4Science Workshop (Best Poster Award).
 
 <u>Recent talk</u>:
 
