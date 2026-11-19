@@ -7,7 +7,7 @@ title: Papers
 
 Recent Preprints
 
-* _Chenhao Tan_ and Claude. [Do AI Models Know the Evidence on Social Protection? Comparing Large Language Models with Policymakers](https://chenhaot.com/papers/ai_evidence_social_protection.pdf).
+* _Chenhao Tan_. [Do AI Models Know the Evidence on Social Protection? Comparing Large Language Models with Policymakers](https://chenhaot.com/papers/ai_evidence_social_protection.pdf).
 * [Haokun Liu][haokun_liu], Filbert Aurelian Tjiaranata, and _Chenhao Tan_. [VERITAS: Towards a General-Purpose Replication Tool for Scientific Research](https://arxiv.org/abs/2607.02931).
 * Zirui Cheng, Joey Chan, Simo Du, _Chenhao Tan_, Yue Guo, and Hao Peng. [Characterizing Rhetorical Misalignment in Decision-Making with Language Models](https://arxiv.org/abs/2608.14630).
 * Zephaniah Roe, Jack Sanderson, Dang Nguyen, Julian Huang, Todd Nief, Aryan Shrivastava, _Chenhao Tan_, Ari Holtzman. [Iterative Finetuning is Mostly Idempotent](https://arxiv.org/abs/2605.01130).
